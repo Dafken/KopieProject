@@ -5,7 +5,7 @@
 | Naam     | GitHub gebruikersnaam                   |
 | :---     | :---                                    |
 | Siebert Timmermans | [SiebertT](https://github.com/SiebertT) |
-| student2 | [student2](https://github.com/student2) |
+| Robby Den Haese | [RobbyDH](https://github.com/RobbyDH) |
 | student3 | [student3](https://github.com/student3) |
 | student4 | [student4](https://github.com/student4) |
 
