@@ -6,8 +6,8 @@
 | :---     | :---                                    |
 | Siebert Timmermans | [SiebertT](https://github.com/SiebertT) |
 | Robby Den Haese | [RobbyDH](https://github.com/RobbyDH) |
-| student3 | [student3](https://github.com/student3) |
-| student4 | [student4](https://github.com/student4) |
+| Davy De Cock | [Dafken](https://github.com/Dafken) |
+| Mike Lobbezoo | [mikestah](https://github.com/mikestah) |
 
 ## Gebruikte tools
 
