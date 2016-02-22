@@ -1,7 +1,7 @@
 # Voortgangsrapport week nn
 
 * Groep: ops2-g12
-* Datum:
+* Datum: 22/02/16 - 29/02/16
 
 | Student  | Aanw. | Opmerking |
 | :---     | :---  | :---      |
@@ -48,10 +48,10 @@
 ## Wat plan je volgende week te doen?
 
 ### Algemeen
-### Siebert Timmermans
-### Robby Den Haese 
-### Davy De Cock
-### Mike Lobberzoo
+### Siebert Timmermans  *Opdracht 2: Labo 1, 2, 3, 4 
+### Robby Den Haese *Opdracht 2: Labo 1, 2, 3, 4 
+### Davy De Cock *Opdracht 2: Labo 1, 2, 3, 4 
+### Mike Lobberzoo *Opdracht 2: Labo 1, 2, 3, 4 
 
 ## Waar hebben jullie nog problemen mee?
 
