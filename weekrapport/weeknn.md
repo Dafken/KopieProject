@@ -5,10 +5,10 @@
 
 | Student  | Aanw. | Opmerking |
 | :---     | :---  | :---      |
-| student1 |       |           |
-| student2 |       |           |
-| student3 |       |           |
-| student4 |       |           |
+| Siebert Timmermans |       |           |
+| Robby Den Haese |       |           |
+| Davy De Cock |       |           |
+| Mike Lobberzoo |       |           |
 
 ## Wat heb je deze week gerealiseerd?
 
@@ -21,25 +21,25 @@
 
 [Afbeelding teamoverzicht tijdregistratie onderverdeeld per deelopdracht]
 
-### Student 1
+### Siebert Timmermans
 
 * ...
 
 [Afbeelding individueel rapport tijdregistratie]
 
-### Student 2
+### Robby Den Haese
 
 * ...
 
 [Afbeelding individueel rapport tijdregistratie]
 
-### Student 3
+### Davy De Cock
 
 * ...
 
 [Afbeelding individueel rapport tijdregistratie]
 
-### Student 4
+### Mike Lobberzoo
 
 * ...
 
@@ -48,10 +48,10 @@
 ## Wat plan je volgende week te doen?
 
 ### Algemeen
-### Student 1
-### Student 2
-### Student 3
-### Student 4
+### Siebert Timmermans
+### Robby Den Haese 
+### Davy De Cock
+### Mike Lobberzoo
 
 ## Waar hebben jullie nog problemen mee?
 
@@ -62,17 +62,17 @@
 
 ### Algemeen
 
-### Student 1
-### Student 2
-### Student 3
-### Student 4
+### Siebert Timmermans
+### Robby Den Haese 
+### Davy De Cock
+### Mike Lobberzoo
 
 ## Feedback analyseluik
 
 ### Algemeen
 
-### Student 1
-### Student 2
-### Student 3
-### Student 4
+### Siebert Timmermans
+### Robby Den Haese 
+### Davy De Cock
+### Mike Lobberzoo
 
