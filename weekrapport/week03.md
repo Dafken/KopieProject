@@ -5,10 +5,10 @@
 
 | Student  | Aanw. | Opmerking |
 | :---     | :---  | :---      |
-| Siebert Timmermans |       |           |
-| Robby Den Haese |       |           |
-| Davy De Cock |       |           |
-| Mike Lobberzoo |       |           |
+| Siebert Timmermans |  V     |           |
+| Robby Den Haese |   V    |           |
+| Davy De Cock |    V   |           |
+| Mike Lobberzoo |   V    |           |
 
 ## Wat heb je deze week gerealiseerd?
 
@@ -49,11 +49,17 @@
 
 ### Algemeen
 ### Siebert Timmermans  
+
 Opdracht 2: Labo 1, 2, 3, 4 
+
 ### Robby Den Haese 
+
 Opdracht 2: Labo 1, 2, 3, 4 
+
 ### Davy De Cock 
+
 Opdracht 2: Labo 1, 2, 3, 4 
+
 ### Mike Lobberzoo 
 Opdracht 2: Labo 1, 2, 3, 4 
 
@@ -63,6 +69,25 @@ Opdracht 2: Labo 1, 2, 3, 4
 * ...
 
 ## Feedback technisch luik
+
+Hulp met PacketTracer gegeven
+
+Weekrapporten
+- Weekrapport was nog niet klaar. In orde brengen bij het begin van elke sessie!
+- Screenshots toevoegen in Github
+- Neerslag van taken moet ook +op Github komen
+
+Afspraken/tips ivm Github/Huboard
+- Lastenboek invullen! Deeltaken in lastenboek worden Github issues.
+- Gebruik de mogelijkheden om te communiceren!
+	- Comments, @mentions
+	- Assignee (= verantwoordelijke)
+	- "Ready for next stage" in kolom "Review" geeft aan dat de taak klaar is en kan gecontroleerd worden door de lector
+
+Tijdregistratie
+- Al wat je doet voor het project registreer je! Aanwezigheid op HoGent, afspraken maken binnen team valt daar ook onder!
+
+Bert Van Vreckem
 
 ### Algemeen
 
