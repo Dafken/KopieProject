@@ -48,10 +48,14 @@
 ## Wat plan je volgende week te doen?
 
 ### Algemeen
-### Siebert Timmermans  *Opdracht 2: Labo 1, 2, 3, 4 
-### Robby Den Haese *Opdracht 2: Labo 1, 2, 3, 4 
-### Davy De Cock *Opdracht 2: Labo 1, 2, 3, 4 
-### Mike Lobberzoo *Opdracht 2: Labo 1, 2, 3, 4 
+### Siebert Timmermans  
+*Opdracht 2: Labo 1, 2, 3, 4 
+### Robby Den Haese 
+*Opdracht 2: Labo 1, 2, 3, 4 
+### Davy De Cock 
+*Opdracht 2: Labo 1, 2, 3, 4 
+### Mike Lobberzoo 
+*Opdracht 2: Labo 1, 2, 3, 4 
 
 ## Waar hebben jullie nog problemen mee?
 
