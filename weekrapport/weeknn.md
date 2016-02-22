@@ -1,6 +1,6 @@
 # Voortgangsrapport week nn
 
-* Groep:
+* Groep: ops2-g12
 * Datum:
 
 | Student  | Aanw. | Opmerking |
