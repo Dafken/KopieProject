@@ -70,7 +70,8 @@ Opdracht 2: Labo 1, 2, 3, 4
 
 ## Feedback technisch luik
 
-Hulp met PacketTracer gegeven
+- [Labo 1 fysiek getoond](https://github.com/HoGentTIN/ops2-g12/issues/4)
+- Hulp met PacketTracer gegeven
 
 Weekrapporten
 - Weekrapport was nog niet klaar. In orde brengen bij het begin van elke sessie!
