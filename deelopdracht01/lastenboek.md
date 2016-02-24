@@ -1,27 +1,25 @@
-# Lastenboek Taak 1: (titel)
+# Lastenboek Taak 1: (Opdracht 2: Labo's)
 
-* Verantwoordelijke uitvoering: `studentx`
-* Verantwoordelijke testen: `studenty`
+* Verantwoordelijke uitvoering: `Siebert Timmermans, Robby Den Haese, Davy De Cock, Mike Lobberzoo`
+* Verantwoordelijke testen: `Siebert Timmermans, Robby Den Haese, Davy De Cock, Mike Lobberzoo`
 
 ## Deliverables
 
-(Som hier de concrete resultaten die van deze opdracht verwacht worden. Verwijder dan ook deze uitleg.)
-
+Uit de labo's leren werken met cisco apparaten en packet tracer
 * ...
 
 ## Deeltaken
 
-(Som hier de deeltaken voor deze opdracht op, en link naar de Github issues. Je kan hier ook afhankelijkheden tussen deeltaken vermelden.)
-
+Labo 1, Labo 2, Labo 3 en Labo 4
 * ...
 
 ## Tijdbesteding
 
 | Student  | Geschat | Gerealiseerd |
 | :---     |    ---: |         ---: |
-| student1 |         |              |
-| student2 |         |              |
-| student3 |         |              |
-| student4 |         |              |
+| Siebert Timmermans |    10 uur     |              |
+| Robby Den Haese|     10 uur    |              |
+| Davy De Cock |     10 uur    |              |
+| Mike Lobberzoo |    10 uur     |              |
 
 (na oplevering van de taak een schermafbeelding toevoegen van rapport tijdbesteding voor deze taak)
