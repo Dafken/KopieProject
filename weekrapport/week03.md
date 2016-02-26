@@ -50,18 +50,18 @@
 ### Algemeen
 ### Siebert Timmermans  
 
-Opdracht 2: Labo 1, 2, 3, 4 
+Opdracht 2: Labo 4 physical topology + starten opdracht 3
 
 ### Robby Den Haese 
 
-Opdracht 2: Labo 1, 2, 3, 4 
+Opdracht 2: Labo 4 physical topology + starten opdracht 3
 
 ### Davy De Cock 
 
-Opdracht 2: Labo 1, 2, 3, 4 
+Opdracht 2: Labo 4 physical topology + starten opdracht 3
 
 ### Mike Lobberzoo 
-Opdracht 2: Labo 1, 2, 3, 4 
+Opdracht 2: Labo 4 physical topology + starten opdracht 3
 
 ## Waar hebben jullie nog problemen mee?
 
