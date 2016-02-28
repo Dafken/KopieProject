@@ -79,7 +79,105 @@ Appendix initializeren en reloaden van switch
 	3. Je kan prompt krijgen om running config te saven voor de reload, kies hier no
 5. Bypassen van de initial config dialoog
 	1. Kies hier nee
+
+
 		
+## Testplan labo 3, Netwerk met switch en router ##
+
+Verbinden van de Devices
+
+1. PC-A verbinden met F0/6 van S1
+2. F0/5 van S1 verbinden met G0/1 van R1
+3. G0/0 van R1 verbinden met PC-B
+
+Opmerking
+
+----------
+
+Indien het een router met end device is heb je crossover cable nodig, zodat communicatie mogelijk is. Hierbij volstaat een lan cable niet, dit is enkel een passthrough.
+
+Configureren van de devices en veriferen van de connectie
+
+IP adressen toewijzen aan de PC's 
+
+1. PC-A IP: 192.168.1.3,  Subnet Mask: 255.255.255.0, Default gateway: 192.168.1.1
+2. PC-B  IP: 192.168.0.3,  Subnet Mask: 255.255.255.0, Default gateway: 192.168.0.1
+3. ping van PC-B naar PC-A
+4. Voor de instructies hiervoor zie vorige labo's
+
+Configureren van de router
+
+1. privileged mode
+	1. Router> enable
+2. config mode
+	1. Router# conf t
+3. device name geven
+	1. Router(config)# hostname R1
+4. disable DNS lookup voor ongewenste lookups
+	1. R1(config)# no ip domain-lookup 
+5. Passwoord voor enable -> class
+	1. R1(config)# enable secret class
+6. cisco als console passwoord
+	1. R1(config)# line con 0 
+	2. R1(config-line)# password cisco 
+	3. R1(config-line)# login 
+	4. R1(config-line)# exit 
+7. cisco als vty password + enable login
+	1. R1(config)# line vty 0 4 
+	2. R1(config-line)# password cisco 
+	3. R1(config-line)# login 
+	4. R1(config-line)# exit 
+
+8. Encrypteren van de clear text passwoorden
+	1. R1(config)# service password-encryption
+
+9. Banner aanmaken
+	1. R1(config)# banner motd #
+	2.  Enter TEXT message.  End with the character '#'.   
+	3.  Unauthorized access prohibited! 
+	3. # 
+	4. R1(config)#
+
+10. Configureer en activeer beide interfaces van de router
+	1. R1(config)# int g0/0 
+	2. R1(config-if)# description Connection to PC-B. 
+	3. R1(config-if)# ip address 192.168.0.1 255.255.255.0 
+	4. R1(config-if)# no shut
+	5. R1(config-if)# int g0/1 
+	6. R1(config-if)# description Connection to S1. 
+	7. R1(config-if)# ip address 192.168.1.1 255.255.255.0 
+	8. R1(config-if)# no shut 
+	9. R1(config-if)# exit 
+	10. R1(config)# exit
+
+11. Saven van de running config naar de startp config
+	1. R1# copy running-config startup-config
+	2. Enter
+
+12. Clock zetten, zie labo 1
+
+13. Ping van PC B naar PC A, zie labo 2
+
+Appendix labo 2: Initializeren en reloaden van de router
+
+1. Connecteer aan de router
+	1. Router> enable
+2. Erase de startup config file van de nonvolatile RAM
+	1. Router# erase startup-config
+	2. enter
+3. Reloaden van de router
+	1. Router# reload
+	2. enter
+	3. bij prompt kies no om de running config niet te saven
+4. Bypassen van de initial config dialog
+	1. Would you like to enter the initial configuration dialog? [yes/no]: no 
+5. Terminaten van autoinstall programma
+	1. Would you like to terminate autoinstall? [yes]: yes 
+
+Initializen van de Switch en reloaden
+
+Zie labo 2 voor instructies
+
 
 
 
