@@ -33,11 +33,8 @@
 
 [Afbeelding individueel rapport tijdregistratie]
 
-### Mike Lobberzoo
-
-* ...
-
-[Afbeelding individueel rapport tijdregistratie]
+### Mike Lobbezoo
+![](http://i65.tinypic.com/t9wjn6.jpg)
 
 ## Wat plan je volgende week te doen?
 
@@ -54,7 +51,7 @@ Opdracht 2: Labo 4 physical topology + starten opdracht 3
 
 Opdracht 2: Labo 4 physical topology + starten opdracht 3
 
-### Mike Lobberzoo 
+### Mike Lobbezoo 
 Opdracht 2: Labo 4 physical topology + starten opdracht 3
 
 ## Waar hebben jullie nog problemen mee?
@@ -98,5 +95,5 @@ Bert Van Vreckem
 ### Siebert Timmermans
 ### Robby Den Haese 
 ### Davy De Cock
-### Mike Lobberzoo
+### Mike Lobbezoo
 
