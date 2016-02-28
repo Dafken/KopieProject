@@ -26,7 +26,6 @@
 
 ![](https://github.com/HoGentTIN/ops2-g12/blob/master/weekrapport/images/Robby%20Den%20Haese%20Week%203%20Tijd.jpg)
 
-[Afbeelding individueel rapport tijdregistratie]
 
 ### Davy De Cock
 
