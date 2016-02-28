@@ -1,14 +1,14 @@
 
-Labo 1 Cheat sheet
+# Labo 1 Cheat sheet
 ---------------------------------------------------------------
 
-Krijg hulp bij commando’s: ?
+Krijg hulp bij commando’s: **?**
 
-Toon de huidige firmware versie van de hardware (switch/router): show version
+Toon de huidige firmware versie van de hardware (switch/router): **show version**
 
-Ga naar privileged EXEC mode: enable
+Ga naar privileged EXEC mode: **enable**
 
-Toon de switch/router klok: show clock
+Toon de switch/router klok: **show clock**
 
 Voorbeelden
 ---------------------------------------------------------------
