@@ -179,7 +179,303 @@ Initializen van de Switch en reloaden
 Zie labo 2 voor instructies
 
 
+## Testplan labo 4, Basic Static Route Configuration##
 
+Verbinden van de devices
+
+1. PC1 met een switch verbinden
+2. Switch van PC1 met Fa0/0 van R1 verbinden
+3. S0/0/0 van R1 met S0/0/0 van R2 verbinden
+4. S0/0/1 van R2 met S0/0/1 van R3 verbinden
+5. PC2 verbinden met een switch 
+6. Switch van PC2 met Fa0/0 van R2 verbinden
+7. PC3 verbinden met een switch
+8. Switch van PC3 met Fa0/0 van R3 verbinden
+
+---------------------
+Op de routers naar global configuration mode en configureer de basis commands: 
+
+1. hostname
+2. no ip domain-lookup
+3. enable secret
+
+zie labo 3
+
+
+configureer de console en de virtual terminal line passwords op elke router
+
+1. password
+2. login
+
+zie labo 3
+
+voeg de logging synchronous commando toe 
+
+1. Router(config-­line)#logging synchronous
+
+
+Hierdoor gaat de console geen pushberichten sturen
+
+*Voorbeeld van interruption*
+
+1. R1(config)#interface fastethernet 0/0
+2. R1(config-­if)#ip address 172.16.3.1 255.255.255.0
+3. R1(config-­if)#no shutdown
+4. R1(config-­if)#descri
+5. *Mar 1 01:16:08.212: %LINK-­3-­UPDOWN: Interface FastEthernet0/0, changed state to up
+6. *Mar 1 01:16:09.214: %LINEPROTO-­5-­UPDOWN: Line protocol on 8. Interface FastEthernet0/0, changed state to upption
+7. R1(config-­if)#
+
+1. R1(config)#interface fastethernet 0/0
+2. R1(config-­if)#ip address 172.16.3.1 255.255.255.0
+3. R1(config-­if)#no shutdown
+4. R1(config-­if)#description
+5. *Mar 1 01:28:04.242: %LINK-­3-­UPDOWN: Interface FastEthernet0/0, changed state to up
+6. *Mar 1 01:28:05.243: %LINEPROTO-­5-­UPDOWN: Line protocol on Interface
+7. FastEthernet0/0, changed state to up
+8. R1(config-­if)#description <-­-­ Keyboard input copied after message
+
+Voeg logging synchronous toe aan de console en virtual terminal lines op alle routers
+
+1. R1(config)#line console 0
+2. R1(config-­line)#logging synchronous
+3. R1(config-­line)#line vty 0 4
+4. R1(config-­line)#logging synchronous
+
+Voeg het exec-timeout commando toe op de console en virtual terminal lines 
+
+Zet timer voor de sessie te terminaten wanneer er gedurende een bepaalde tijd niks gebeurt
+
+*Voorbeeld*
+
+1. Router(config-­line)#exec-­timeout minutes [seconds]
+
+Voeg exec-timeout 0 0 toe aan de console en virtual terminal lines op alle routers
+
+1. R1(config)#line console 0
+2. R1(config-­line)#exec-­timeout 0 0
+3. R1(config-­line)#line vty 0 4
+4. R1(config-­line)#exec-­timeout 0 0
+
+-----------------
+
+Indien je de IP adressen op R1 geconfigureerd, verwijder dan al interface commands. 
+
+Op R1 van de privileged exec mode, geef de debug ip routing command 
+
+1. R1#debug ip routing
+2. IP routing debugging is on
+
+Toont welke routes worden toegevoegd, gewijzigd of verwijderd.
+
+Ga in de interface configuratie mode van R1 zijn LAN interface.
+
+1. R1#configure terminal
+2. Enter configuration commands, one per line. End with CNTL/Z.
+3. R1(config)#interface fastethernet 0/0
+
+Configureer het IP adres 
+
+1. R1(config-­if)#ip address 172.16.3.1 255.255.255.0
+2. is_up: 0 state: 6 sub state: 1 line: 1 has_route: False
+
+Als je nu op enter klikt zou de cisco IOS debug output je moeten informeren dat r een nieuwe route is maar deze is *false*. In andere woorden er is een nieue route toegevoegd aan de routing table.
+
+Vul het juiste commando in om de route in de route table te installeren.
+
+1. is_up: 1 state: 4 sub state: 1 line: 1 has_route: False
+2. RT: add 172.16.3.0/24 via 0.0.0.0, connected metric [0/0]
+3. RT: NET-­RED 172.16.3.0/24
+4. RT: NET-­RED queued, Queue size 1
+5. RT: interface FastEthernet0/0 added to routing table
+6. %LINK-­3-­UPDOWN: Interface FastEthernet0/0, changed state to up
+7. is_up: 1 state: 4 sub state: 1 line: 1 has_route: True
+8. %LINEPROTO-­5-­UPDOWN: Line protocol on Interface FastEthernet0/0, chan
+ged state to up
+9. is_up: 1 state: 4 sub state: 1 line: 1 has_route: True
+10. is_up: 1 state: 4 sub state: 1 line: 1 has_route: True
+
+Vul een commando in om te zien of de nieuwe route in de routing table staat. 
+
+1. R1# show ip route
+
+Ga in de interface configuratie mode voor R1 zijn WAN interface verbonden met R2
+
+1. R1#configure terminal
+2. Enter configuration commands, one per line. End with CNTL/Z.
+3. R1(config)#interface Serial 0/0/0
+
+
+Configureer het IP adres
+
+1. R1(config-­if)#ip address 172.16.2.1 255.255.255.0
+2. is_up: 0 state: 0 sub state: 1 line: 0 has_route: False
+
+
+Geef het clock rate commando op R1
+
+1. R1(config-­if)#clock rate 64000
+2. is_up: 0 state: 0 sub state: 1 line: 0 has_route: False
+
+Geef het commando om zeker te zijn dat de interface is volledig geconfigureerd. 
+
+1. R1(config-if)# no shutdown
+
+Indien het mogelijk is ga op een andere pc voor R2 zo kun je het debug output bekijken op R1 als je veranderen maakt op R2.
+
+1. R2#debug ip routing
+2. IP routing debugging is on
+
+1. R2#configure terminal
+2. Enter configuration commands, one per line. End with CNTL/Z.
+3. R2(config)#interface serial 0/0/0
+
+Configureer IP adres
+
+1. R2(config-­if)#ip address 172.16.2.2 255.255.255.0
+2. is_up: 0 state: 6 sub state: 1 line: 0
+
+Het commando om zeker te zijn dat de interface volledig is geconfigureerd.
+
+1. R2(config-if)# no shutdown
+
+Kijk of de nieuwe route in de routing table van R1 en R2 staat
+
+1. R1# show ip route
+
+1. R2# show ip route
+
+
+Zet het debugging uit op beide routers 
+
+1. R1(config-­if)#end
+2. R1#no debug ip routing
+3. IP routing debugging is off
+
+----------------------
+
+Vervolledig nu alle andere interfaces van R2 en R3 volgens de aansluiting met de ip adressen
+
+-------------------
+
+Configureren van de IP-adressen op de host PC's
+
+1. PC1 IP-adres: 172.16.3.10/24, default gateway of 172.16.3.1
+2. PC2 IP-adres: 172.16.1.10/24, default gateway of 172.16.1.1
+3. PC3 IP-adres: 192.168.2.10/24, default gateway of 192.168.2.1
+
+------------------
+
+Controleren of alles werkt
+
+Gebruik het Ping commando om: 
+1. PC1 naar default gateway
+2. PC2 naar default gateway
+3. PC3 naar default gateway
+
+Indien 1 van deze niet werkt moet je de fout zoeken
+
+1. Router R2 ping naar R1 172.16.2.1
+2. Router R2 ping naar R3 192.168.1.1
+
+Indien 1 van deze niet werkt moet je de fout zoeken
+
+1. PC3 naar PC1
+2. PC3 naar PC2
+3. PC2 naar PC1
+4. Router R1 naar Router R3 
+
+Deze gaan nog niet werken omdat routers alleen naar direct met elkaar verbonden netwerken kan communiceren
+
+----------
+
+Check status van de interfaces:
+
+1. R2# show ip interface brief
+
+Toon de routing table voor alle 3 de routers:
+
+1. R1# show ip route
+2. R2# show ip route
+3. R3# show ip route
+
+We zien dat niet alle IP-adressen erin staan dit komt doordat de routers niet met static of dynamic routing zijn geconfigureerd. Hierdoor kennen de routers enkel de direct verbonden netwerken.
+
+We kunnen static routes toevoegen om de overige verbindingen te maken.
+
+--------
+
+Gebruik de volgende syntax om static routes met de volgende hop te configureren: 
+
+1. Router(config)# ip route network-­address subnet-­mask ip-­address
+
+Op R3 configureer een static route naar 172.16.1.0 en maak gebruik van Serial 0/0/1 interface van R2 als volgende hop adres. 
+
+1. R3(config)#ip route 172.16.1.0 255.255.255.0 192.168.1.2
+2. R3(config)#
+
+Met show ip route kan je zien of deze toegevoegd is
+
+Configureer op R2 de static route om het 192.168.2.0 netwerk te bereiken
+
+1. R2(config)#ip route 192.168.2.0 255.255.255.0 192.168.1.1
+2. R2(config)#
+
+Met show ip route kan je zien of deze toegevoegd is
+
+Op R3 configureer de static route met de Serial 0/0/0 interface van R3 als de exit interface
+
+1. R3(config)# ip route 172.16.2.0 255.255.255.0 Serial0/0/1
+2. R3(config)#
+
+Met show ip route kan je zien of deze toegevoegd is
+
+Gebruik show running config om te zien dat de static routes geconfigureerd zijn op R3
+
+1. R3#show running-­config
+
+Op R2 configureer een static route 
+
+1. R2(config)# ip route 172.16.3.0 255.255.255.0 Serial0/0/0
+2. R2(config)#
+
+Met show ip route kan je zien of deze toegevoegd is
+
+We zien dat R2 nu naar alle netwerken kan navigeren. Dit wil niet zeggen dat de andere routers dit ook kunnen.
+
+Ping PC2 naar PC1, hier zien we dat dit niet lukt doordat R1 geen terugroute heeft van 172.16.1.0
+
+----------
+
+Configureren van een Default Static Route
+
+Configureer R1 met een default route
+
+1. R1(config)#ip route 0.0.0.0 0.0.0.0 172.16.2.2
+2. R1(config)#
+
+Controleer via show ip route
+
+We zien dat we kunnen pingen nu van PC2 naar PC1  maar nog niet van PC3 naar PC1 
+
+-----------------
+
+Configureren van Summary Static Route op R3
+
+1. R3(config)#ip route 172.16.0.0 255.255.252.0 192.168.1.2
+
+Via show ip terug controleren
+
+Verwijder de static routes op R3
+
+1. R3(config)#no ip route 172.16.1.0 255.255.255.0 192.168.1.2
+2. R3(config)#no ip route 172.16.2.0 255.255.255.0 Serial0/0/0
+
+Met show ip terug controleren
+
+Nu kunnen we normaal wel pingen van PC3 naar PC1.
+
+----------------------
 
 Auteurs testplan: Robby Den Haese, Siebert Timmermans
 
