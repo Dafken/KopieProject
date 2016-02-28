@@ -16,4 +16,4 @@ Verwijderen van virtuale locale area netwerken (VLAN’s): show flash, gevolgd d
 Enable secret class:  zal het paswoord automatisch encrypteren
 Line con 0: Console lijn 0 – console paswoord
 password cisco: Paswoord instellen op cisco
-login: wachtwoordauthenticatie instellen op de console lijn (enable)
+login: wachtwoordauthenticatie instellen op de console lijn (enable).
