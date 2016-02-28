@@ -22,4 +22,4 @@ Labo 1, Labo 2, Labo 3 en Labo 4
 | Davy De Cock |     10 uur    |              |
 | Mike Lobberzoo |    10 uur     |              |
 
-(na oplevering van de taak een schermafbeelding toevoegen van rapport tijdbesteding voor deze taak)
+![](https://i.gyazo.com/0935d0259065afdbd36343f8430973d2.png)
