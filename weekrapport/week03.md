@@ -14,18 +14,13 @@
 
 ### Algemeen
 
-[Afbeelding huidige toestand Kanban-bord(en) invoegen]
+ ![](https://i.gyazo.com/8e7951fec458df189d208d8df9d300c4.png)
 
-* ...
-* ...
-
-[Afbeelding teamoverzicht tijdregistratie onderverdeeld per deelopdracht]
+![](https://i.gyazo.com/0935d0259065afdbd36343f8430973d2.png)
 
 ### Siebert Timmermans
 
-* ...
-
-[Afbeelding individueel rapport tijdregistratie]
+![](https://i.gyazo.com/485a8a9d1b0c58049a35152eeecf749e.png)
 
 ### Robby Den Haese
 

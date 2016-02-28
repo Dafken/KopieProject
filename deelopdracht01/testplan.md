@@ -1,8 +1,9 @@
 # Testplan taak 1: Deelopdracht 1, labo's
 
-(Een testplan is een *exacte* procedure van de handelingen die je moet uitvoeren om aan te tonen dat de opdracht volledig volbracht is en dat aan alle specificaties voldaan is. Een teamlid moet aan de hand van deze procedure in staat zijn om de tests uit te voeren en erover te rapporteren (= zie testrapport). Geef bij elke stap het verwachte resultaat en hoe je kan verifiëren of dat resultaat ook behaald is. Kies zelf de structuur: genummerde lijst, tabel, secties, ... Verwijder deze uitleg als het plan af is.)
-
 ## Testplan labo 1, Console verbinden met Switch ##
+
+![](https://i.gyazo.com/fb123152afadfd913ce47e4e64a4a042.png)
+
 1. Verbind de Switch met de PC via een console kabel
 2. Gebruik Tera Term om via de console te kunnen werken, te downloaden op [Tera Term](http://logmett.com/index.php?/download/free-downloads.html "Tera download")
 3. Kies de Serial radio button die verbonden is met de COM-poort
@@ -15,6 +16,9 @@
 	4. Switch# show clock
 
 ## Testplan labo 2, 2 Switches met 2 PCs verbinden, via ethernet ##
+
+![](https://i.gyazo.com/27c237b3782bb8c26034821e4beaad5a.png)
+
 1. Verbind de Ethernetkabel aan de Switch 1 op F0/1 met F0/1 op Switch 2
 2. Verbind de PC-A via de NIC poort en de F0/6 poort op Switch 1
 3. Verbind de PC-B via de NIC poort en de F0/18 poort op Switch 2
@@ -83,6 +87,8 @@ Appendix initializeren en reloaden van switch
 
 		
 ## Testplan labo 3, Netwerk met switch en router ##
+
+![](http://i.gyazo.com/2223d265aa24e50f9aab4ce46970f8ca.png)
 
 Verbinden van de Devices
 
@@ -180,6 +186,8 @@ Zie labo 2 voor instructies
 
 
 ## Testplan labo 4, Basic Static Route Configuration##
+
+![](http://i.gyazo.com/a12abf26b5f1b9751ddb2378b3f12752.png)
 
 Verbinden van de devices
 
