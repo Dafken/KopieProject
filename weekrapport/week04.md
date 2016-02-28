@@ -1,7 +1,7 @@
-# Voortgangsrapport week nn
+# Voortgangsrapport week 4
 
 * Groep: ops2-g12
-* Datum:
+* Datum: 29/02 - 07/03 
 
 | Student  | Aanw. | Opmerking |
 | :---     | :---  | :---      |
@@ -46,6 +46,8 @@
 [Afbeelding individueel rapport tijdregistratie]
 
 ## Wat plan je volgende week te doen?
+
+Fusiek testen van labo 3 en 4 en opdracht 3 uitwerken 
 
 ### Algemeen
 ### Siebert Timmermans
