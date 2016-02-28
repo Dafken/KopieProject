@@ -29,9 +29,7 @@
 
 ### Davy De Cock
 
-* ...
-
-[Afbeelding individueel rapport tijdregistratie]
+![](http://i65.tinypic.com/122f8n8.jpg)
 
 ### Mike Lobbezoo
 ![](http://i65.tinypic.com/t9wjn6.jpg)
