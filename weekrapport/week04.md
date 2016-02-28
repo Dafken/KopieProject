@@ -47,7 +47,7 @@
 
 ## Wat plan je volgende week te doen?
 
-Fusiek testen van labo 3 en 4 en opdracht 3 uitwerken 
+Fysiek testen van labo 3 en 4 en opdracht 3 uitwerken 
 
 ### Algemeen
 ### Siebert Timmermans
