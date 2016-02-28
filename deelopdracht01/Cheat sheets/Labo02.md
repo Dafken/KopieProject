@@ -1,4 +1,4 @@
-Labo 2 Cheat Sheet
+# Labo 2 Cheat Sheet
 De configuratie mode gebruiken van de switch: configure terminal (afgekort conf t)
 Switch een naam geven: hostname x (waarbij x = de naam is)
 Commando automatisch laten aanvullen: Gebruiken van tabkey
