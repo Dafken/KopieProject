@@ -1,7 +1,7 @@
 # Voortgangsrapport week nn
 
 * Groep: ops2-g12
-* Datum: 22/02/16 - 29/02/16
+* Datum: 2016-02-22
 
 | Student  | Aanw. | Opmerking |
 | :---     | :---  | :---      |
