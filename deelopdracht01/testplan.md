@@ -156,7 +156,7 @@ Configureren van de router
 	9. R1(config-if)# exit 
 	10. R1(config)# exit
 
-11. Saven van de running config naar de startp config
+11. Saven van de running config naar de startup config
 	1. R1# copy running-config startup-config
 	2. Enter
 
@@ -234,6 +234,8 @@ Hierdoor gaat de console geen pushberichten sturen
 6. *Mar 1 01:16:09.214: %LINEPROTO-­5-­UPDOWN: Line protocol on 8. Interface FastEthernet0/0, changed state to upption
 7. R1(config-­if)#
 
+*Na logging synchronous*
+
 1. R1(config)#interface fastethernet 0/0
 2. R1(config-­if)#ip address 172.16.3.1 255.255.255.0
 3. R1(config-­if)#no shutdown
@@ -287,7 +289,7 @@ Configureer het IP adres
 1. R1(config-­if)#ip address 172.16.3.1 255.255.255.0
 2. is_up: 0 state: 6 sub state: 1 line: 1 has_route: False
 
-Als je nu op enter klikt zou de cisco IOS debug output je moeten informeren dat r een nieuwe route is maar deze is *false*. In andere woorden er is een nieue route toegevoegd aan de routing table.
+Als je nu op enter klikt zou de cisco IOS debug output je moeten informeren dat er een nieuwe route is maar deze is *false*. In andere woorden er is een nieuwe route toegevoegd aan de routing table.
 
 Vul het juiste commando in om de route in de route table te installeren.
 
@@ -329,7 +331,7 @@ Geef het commando om zeker te zijn dat de interface is volledig geconfigureerd.
 
 1. R1(config-if)# no shutdown
 
-Indien het mogelijk is ga op een andere pc voor R2 zo kun je het debug output bekijken op R1 als je veranderen maakt op R2.
+Indien het mogelijk is ga op een andere pc voor R2 zo kun je de debug output bekijken op R1 terwijl je veranderingen maakt op R2.
 
 1. R2#debug ip routing
 2. IP routing debugging is on
@@ -359,7 +361,7 @@ Zet het debugging uit op beide routers
 1. R1(config-­if)#end
 2. R1#no debug ip routing
 3. IP routing debugging is off
-
+4. Herhaal voor R2
 ----------------------
 
 Vervolledig nu alle andere interfaces van R2 en R3 volgens de aansluiting met de ip adressen
@@ -393,7 +395,7 @@ Indien 1 van deze niet werkt moet je de fout zoeken
 3. PC2 naar PC1
 4. Router R1 naar Router R3 
 
-Deze gaan nog niet werken omdat routers alleen naar direct met elkaar verbonden netwerken kan communiceren
+Deze gaan nog niet werken omdat routers alleen naar direct met elkaar verbonden netwerken kan communiceren, omdat ze nog niet statisch verbonden zijn.
 
 ----------
 
@@ -441,9 +443,7 @@ Met show ip route kan je zien of deze toegevoegd is
 Gebruik show running config om te zien dat de static routes geconfigureerd zijn op R3
 
 1. R3#show running-­config
-
-Op R2 configureer een static route 
-
+2. Op R2 configureer een static route 
 1. R2(config)# ip route 172.16.3.0 255.255.255.0 Serial0/0/0
 2. R2(config)#
 
@@ -457,6 +457,8 @@ Ping PC2 naar PC1, hier zien we dat dit niet lukt doordat R1 geen terugroute hee
 
 Configureren van een Default Static Route
 
+We gebruiken de Default Static Route om niet alles statisch te moeten ingeven over de 2 routers. Door router 1 default te maken kan hij ipv rechtstreeks naar het statische adres gewoon naar R2 sturen die dan verder doorstuurt.
+
 Configureer R1 met een default route
 
 1. R1(config)#ip route 0.0.0.0 0.0.0.0 172.16.2.2
@@ -469,6 +471,8 @@ We zien dat we kunnen pingen nu van PC2 naar PC1  maar nog niet van PC3 naar PC1
 -----------------
 
 Configureren van Summary Static Route op R3
+
+In plaats van nog een statische route in te geven, en aangezien de netwerken zo dicht bij elkaar liggen kunnen we een Summary Static Route gebruiken. Hierdoor wordt de routing table niet te groot en zijn we efficiënter. 
 
 1. R3(config)#ip route 172.16.0.0 255.255.252.0 192.168.1.2
 
