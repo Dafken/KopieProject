@@ -73,7 +73,6 @@ Rapportering
 Deelopdracht 2 (Cisco)
 
 - Probleem router van vorige week is nog niet opgeklaard, voorgelegd aan collega Joeri Van Steen (vandaag ziek)
-- 
 
 ### Siebert Timmermans
 ### Robby Den Haese 
