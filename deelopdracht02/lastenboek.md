@@ -1,13 +1,13 @@
 # Lastenboek Taak 2: (Servers aanmaken via scripts)
 
 ### Uitvoering ###
-Robby Den Haese - labo 1 en 3 virtueel, labo 1, 2, 3, 4 fysiek, lastenboek
+Robby Den Haese - opzetten Azure server - CentOS
 
 Mike Lobbezoo - labo 2 en 4 virtueel,  labo 1, 2, 3, 4 fysiek
 
 Davy De Cock - labo 2 en 4 virtueel,  labo 1, 2, 3, 4 fysiek
 
-Siebert Timmermans - labo 1 en 3 virtueel,  labo 1, 2, 3, 4 fysiek, lastenboek
+Siebert Timmermans - opzetten Azure server - CentOS
 
 ### Testing ###
 Robby Den Haese - testplan labo 1, 2, 3, 4
@@ -24,17 +24,8 @@ Uit de labo's leren werken met cisco apparaten en packet tracer
 
 ## Deeltaken
 
-- labo 1 virtueel - iedereen
-- labo 1 fysiek - iedereen
-- labo 2 virtueel - Mike en Davy
-- labo 2 fysiek - iedereen
-- labo 3 virtueel - Robby en Siebert 
-- labo 3 fysiek - iedereen
-- labo 4 virtueel - Mike en Davy
-- labo 4 fysiek - iedereen
-- lastenboek - Robby en Siebert
-- testplan - Robby en Siebert
-- testrapport - Mike en Davy
+- Uitzoeken deelopdracht 2
+- Azure server opstellen - CentOS
 
 
 ## Tijdbesteding
