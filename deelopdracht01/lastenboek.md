@@ -1,7 +1,22 @@
 # Lastenboek Taak 1: (Opdracht 2: Labo's)
 
-* Verantwoordelijke uitvoering: `Siebert Timmermans, Robby Den Haese, Davy De Cock, Mike Lobberzoo`
-* Verantwoordelijke testen: `Siebert Timmermans, Robby Den Haese, Davy De Cock, Mike Lobberzoo`
+### Uitvoering ###
+Robby Den Haese - labo 1 en 3 virtueel, labo 1, 2, 3, 4 fysiek, lastenboek
+
+Mike Lobbezoo - labo 2 en 4 virtueel,  labo 1, 2, 3, 4 fysiek
+
+Davy De Cock - labo 2 en 4 virtueel,  labo 1, 2, 3, 4 fysiek
+
+Siebert Timmermans - labo 1 en 3 virtueel,  labo 1, 2, 3, 4 fysiek, lastenboek
+
+### Testing ###
+Robby Den Haese - testplan labo 1, 2, 3, 4
+
+Mike Lobbezoo - testrapport labo 1, 2, 3, 4
+
+Davy De Cock - testrapport labo 1, 2, 3, 4
+
+Siebert Timmermans - testplan labo 1, 2, 3, 4
 
 ## Deliverables
 
@@ -9,7 +24,18 @@ Uit de labo's leren werken met cisco apparaten en packet tracer
 
 ## Deeltaken
 
-Labo 1, Labo 2, Labo 3 en Labo 4
+- labo 1 virtueel - iedereen
+- labo 1 fysiek - iedereen
+- labo 2 virtueel - Mike en Davy
+- labo 2 fysiek - iedereen
+- labo 3 virtueel - Robby en Siebert 
+- labo 3 fysiek - iedereen
+- labo 4 virtueel - Mike en Davy
+- labo 4 fysiek - iedereen
+- lastenboek - Robby en Siebert
+- testplan - Robby en Siebert
+- testrapport - Mike en Davy
+
 
 ## Tijdbesteding
 

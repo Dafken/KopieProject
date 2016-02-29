@@ -11,46 +11,54 @@
 | Mike Lobberzoo |   V    |           |
 
 ## Wat heb je deze week gerealiseerd?
+- Github, Toggl en Huboard opgestart
 
 ### Algemeen
+![](https://i.gyazo.com/a7d335040c0a38f2bd7cc46faa0c0cbe.png)
 
- ![](https://i.gyazo.com/8e7951fec458df189d208d8df9d300c4.png)
+Vanwege fouten in werkwijze hebben we geen toggl verslag van deze week. Het bedraagt ook maar plusminus een uurtje in zijn totaliteit.
 
-![](https://i.gyazo.com/0935d0259065afdbd36343f8430973d2.png)
+
 
 ### Siebert Timmermans
+//
 
-![](https://i.gyazo.com/485a8a9d1b0c58049a35152eeecf749e.png)
 
 ### Robby Den Haese
 
-![](https://github.com/HoGentTIN/ops2-g12/blob/master/weekrapport/images/Robby%20Den%20Haese%20Week%203%20Tijd.jpg)
+//
 
 
 ### Davy De Cock
 
-![](http://i65.tinypic.com/122f8n8.jpg)
+//
 
 ### Mike Lobbezoo
-![](http://i65.tinypic.com/t9wjn6.jpg)
+//
 
 ## Wat plan je volgende week te doen?
 
 ### Algemeen
+
+Opdracht 2: Labo 1, 2, 3, 4 zowel fysiek als uitgevoerd + testplan, testrapport en lastenboek
+
 ### Siebert Timmermans  
 
-Opdracht 2: Labo 4 physical topology + starten opdracht 3
+Opdracht 2: Labo 1, 2, 3, 4 zowel fysiek als uitgevoerd + testplan, testrapport en lastenboek
 
 ### Robby Den Haese 
 
-Opdracht 2: Labo 4 physical topology + starten opdracht 3
+
+Opdracht 2: Labo 1, 2, 3, 4 zowel fysiek als uitgevoerd + testplan, testrapport en lastenboek
 
 ### Davy De Cock 
 
-Opdracht 2: Labo 4 physical topology + starten opdracht 3
+
+Opdracht 2: Labo 1, 2, 3, 4 zowel fysiek als uitgevoerd + testplan, testrapport en lastenboek
 
 ### Mike Lobbezoo 
-Opdracht 2: Labo 4 physical topology + starten opdracht 3
+
+Opdracht 2: Labo 1, 2, 3, 4 zowel fysiek als uitgevoerd + testplan, testrapport en lastenboek
 
 ## Waar hebben jullie nog problemen mee?
 
