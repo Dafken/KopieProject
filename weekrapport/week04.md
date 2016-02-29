@@ -1,14 +1,14 @@
 # Voortgangsrapport week 4
 
 * Groep: ops2-g12
-* Datum: 29/02 - 07/03 
+* Datum: 2016-02-29
 
 | Student  | Aanw. | Opmerking |
 | :---     | :---  | :---      |
-| Siebert Timmermans |       |           |
-| Robby Den Haese |       |           |
-| Davy De Cock |       |           |
-| Mike Lobberzoo |       |           |
+| Siebert Timmermans |  V    |           |
+| Robby Den Haese |  V    |           |
+| Davy De Cock |   V   |           |
+| Mike Lobberzoo |  V     |           |
 
 ## Wat heb je deze week gerealiseerd?
 
@@ -63,6 +63,17 @@ Fysiek testen van labo 3 en 4 en opdracht 3 uitwerken
 ## Feedback technisch luik
 
 ### Algemeen
+
+Rapportering
+
+- Verwarring weeknummers. Weekrapport "Week 4" wordt besproken in de 4e week volgens de academische kalender en slaat op het werk sinds de vorige sessie (van week 3).
+- Tijdregistratie in rapport week03.md mag naar week04.md
+
+
+Deelopdracht 2 (Cisco)
+
+- Probleem router van vorige week is nog niet opgeklaard, voorgelegd aan collega Joeri Van Steen (vandaag ziek)
+- 
 
 ### Siebert Timmermans
 ### Robby Den Haese 
