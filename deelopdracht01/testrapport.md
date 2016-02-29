@@ -1,15 +1,13 @@
 ## Testplan labo 1, Console verbinden met Switch
 
-1.
-    ```
-    Switch> show clock
-    *0:0:19.573 UTC Mon Mar 1 1993
-    ```
-2.	Switch> enable (privileged EXEC)
-Switch#
-3.	Switch# clock set 15:08:00 Feb 28 2016
-4.	Switch# show clock
+```
+Switch> show clock
+*0:0:19.573 UTC Mon Mar 1 1993
+Switch# clock set 15:08:00 Feb 28 2016
+Switch# show clock
 *15:8:18.105 UTC Sun Feb 28 2016
+```
+
 Bij stap 4 hebben we enige problemen ondervonden doordat Tera Term al open stond voordat de Switch werd opgestart. Door dat Tera Term al open stond kon hij geen connectie vinden met de Switch en moest de Switch herstart worden. Eens dat gebeurt was, hebben we geen problemen meer ondervonden bij dit labo.
 
 ## Testplan labo 2, 2 Switches met 2 PCs verbinden, via ethernet
