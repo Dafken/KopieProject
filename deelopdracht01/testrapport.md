@@ -27,7 +27,9 @@ Bij het maken van de opstelling gingen we er eerst van uit dat we bij het pingen
 
 Na het configureren van de “ip route” konden de pc’s buiten hun netwerk pingen naar andere pc’s van een andere router. Een goeie tip is om altijd twee keer na te kijken ofdat de pc’s de juiste ip’s hebben toegewezen gekregen hebben. Wij hebben hier enige problemen mee mogen ervaren.
 
+In de fysieke opstelling van labo 4 ging alles feilloos buiten het feit dat 1 PC een foutieve netwerkkaart had. 
 
+In de volgende deelopdracht zullen we elke stap uit het testplan opvolgen in het testrapport!
 ----------
 
 Uitvoerder(s) test: Mike Lobbezoo, Davy De Cock
