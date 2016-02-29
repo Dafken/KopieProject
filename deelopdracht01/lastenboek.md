@@ -6,12 +6,10 @@
 ## Deliverables
 
 Uit de labo's leren werken met cisco apparaten en packet tracer
-* ...
 
 ## Deeltaken
 
 Labo 1, Labo 2, Labo 3 en Labo 4
-* ...
 
 ## Tijdbesteding
 
