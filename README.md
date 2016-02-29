@@ -13,3 +13,10 @@
 
 * Kanban-bord: <https://huboard.com/HoGentTIN/ops2-g12/>
 * Tijdregistratie: <http://toggl.com/>
+
+## Azure codes
+
+* MCKU1G908KHTMI
+* MCDRCTAVB1MESB
+* MCTYIS2T9GT26M
+* MCA7NRTQ7V0QJW
