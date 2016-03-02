@@ -25,7 +25,11 @@ Uit de labo's leren werken met cisco apparaten en packet tracer
 ## Deeltaken
 
 - Uitzoeken deelopdracht 2
-- Azure server opstellen - CentOS
+- Azure server opstellen - CentOS - LAMPstack
+- Azure server opstellen - CentOS - javaEE
+- Azure server opstellen - Windows server 2012 R2 datacenter - WISA
+- Documentatie opzoeken rond aanmaken VM via powershell of Azure CLI, om dan te kunnen gebruiken in vagrant
+- 
 
 
 ## Tijdbesteding
