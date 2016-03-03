@@ -14,40 +14,46 @@
 
 ### Algemeen
 
-[Afbeelding huidige toestand Kanban-bord(en) invoegen]
+ ![](https://i.gyazo.com/8e7951fec458df189d208d8df9d300c4.png)
 
-* ...
-* ...
-
-[Afbeelding teamoverzicht tijdregistratie onderverdeeld per deelopdracht]
+![](https://i.gyazo.com/0935d0259065afdbd36343f8430973d2.png)
 
 ### Siebert Timmermans
 
-* ...
-
-[Afbeelding individueel rapport tijdregistratie]
+![](https://i.gyazo.com/485a8a9d1b0c58049a35152eeecf749e.png)
 
 ### Robby Den Haese
 
-* ...
+![](https://github.com/HoGentTIN/ops2-g12/blob/master/weekrapport/images/Robby%20Den%20Haese%20Week%203%20Tijd.jpg)
 
-[Afbeelding individueel rapport tijdregistratie]
 
 ### Davy De Cock
 
-* ...
+![](http://i65.tinypic.com/122f8n8.jpg)
 
-[Afbeelding individueel rapport tijdregistratie]
-
-### Mike Lobberzoo
-
-* ...
-
-[Afbeelding individueel rapport tijdregistratie]
+### Mike Lobbezoo
+![](http://i65.tinypic.com/t9wjn6.jpg)
 
 ## Wat plan je volgende week te doen?
 
-Fysiek testen van labo 3 en 4 en opdracht 3 uitwerken 
+### Algemeen
+### Siebert Timmermans  
+
+Opdracht 2: Labo 4 physical topology + starten opdracht 3
+### Robby Den Haese 
+
+Opdracht 2: Labo 4 physical topology + starten opdracht 3
+
+### Davy De Cock 
+
+Opdracht 2: Labo 4 physical topology + starten opdracht 3
+
+### Mike Lobbezoo 
+Opdracht 2: Labo 4 physical topology + starten opdracht 3
+
+
+## Wat plan je volgende week te doen?
+Fysiek testen labo 4, opstarten werkomgeving opdracht 3
 
 ### Algemeen
 ### Siebert Timmermans
@@ -57,8 +63,7 @@ Fysiek testen van labo 3 en 4 en opdracht 3 uitwerken
 
 ## Waar hebben jullie nog problemen mee?
 
-* ...
-* ...
+* Opstarten van de werkomgeving
 
 ## Feedback technisch luik
 
