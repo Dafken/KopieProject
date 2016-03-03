@@ -30,7 +30,7 @@ Uit de labo's leren werken met cisco apparaten en packet tracer
 - Azure server opstellen - Windows server 2012 R2 datacenter - WISA
 - Documentatie opzoeken rond aanmaken VM via powershell of Azure CLI, om dan te kunnen gebruiken in vagrant
 - LAMP stack Azure server installeren
-- Image capturen van LAMP stack
+- Image capturen van LAMP stack  
 
 
 ## Tijdbesteding
