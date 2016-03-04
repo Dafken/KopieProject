@@ -1,7 +1,9 @@
 Lamp stack opzetten 
 ------
 
-Opmrking : Azure create linux centos VM:  via PuTTyGen public key genereren, daarna private key en deze mee geven bij advanced options bij connection via SSH. 
+#OPMERKING#
+
+In de VM die gaat gebruiken als image mag je GEEN SSH instellen met public en private keys. Dit wordt onthouden wanneer je de image achteraf gebruikt, waardoor eerst een SSH reset nodig is via Azure CLI.
 
 
 Creating Apache
