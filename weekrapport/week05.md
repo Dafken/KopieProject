@@ -1,7 +1,7 @@
-# Voortgangsrapport week nn
+# Voortgangsrapport week 05
 
 * Groep: ops2-g12
-* Datum:
+* Datum: 07/03/2016
 
 | Student  | Aanw. | Opmerking |
 | :---     | :---  | :---      |
@@ -23,13 +23,23 @@
 
 ### Siebert Timmermans
 
-* ...
+* Opdracht 2: labo 4 fysiek
+* Opdracht 3: Hoe gaan we dit aanpakken?
+* Opdracht 3: Servers aanmaken in Azure
+* Opdracht 3: LAMPstack Azure installeren
+* Opdracht 3: image van LAMPstack nemen
+* Documenteren opdracht 3
 
 [Afbeelding individueel rapport tijdregistratie]
 
 ### Robby Den Haese
 
-* ...
+* Opdracht 2: labo 4 fysiek
+* Opdracht 3: Hoe gaan we dit aanpakken?
+* Opdracht 3: Servers aanmaken in Azure
+* Opdracht 3: LAMPstack Azure installeren
+* Opdracht 3: image van LAMPstack nemen
+* Documenteren opdracht 3
 
 [Afbeelding individueel rapport tijdregistratie]
 
@@ -48,8 +58,20 @@
 ## Wat plan je volgende week te doen?
 
 ### Algemeen
+
+- Scripts schrijven voor automatisatie
+- WISAstack verder uitwerken
+- Documenteren
+
+
+
 ### Siebert Timmermans
+
+- WISAstack verder uitwerken, script voor LAMPstack en WISAstack
+- documenteren
 ### Robby Den Haese 
+- WISAstack verder uitwerken, script voor LAMPstack en WISAstack
+- documenteren
 ### Davy De Cock
 ### Mike Lobberzoo
 
