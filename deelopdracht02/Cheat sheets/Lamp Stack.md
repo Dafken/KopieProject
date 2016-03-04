@@ -181,3 +181,10 @@ Om het IP-adres op te vragen
 # TO DO #
 - laatste stappen verwerken in script, met parameters die we kunnen aanpassen voor elk nieuw netwerk
 
+
+-----------
+
+Auteurs: Robby en Siebert
+
+
+
