@@ -19,6 +19,8 @@
 
 ###Tijdsregistratie teamoverzicht
 
+Todo Robby
+
 ### Siebert Timmermans
 
 * Opdracht 2: labo 4 fysiek
