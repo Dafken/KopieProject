@@ -1,13 +1,13 @@
 # Lastenboek Taak 2: (Servers aanmaken via scripts)
 
 ### Uitvoering ###
-Robby Den Haese - opzetten Azure server LAMP en WISA - research Azure Linux image capturing - Image van stack nemen en reproduceren + cheat sheet van de manier van werken - documenteren weekrapport en opdracht 3
+**Robby Den Haese** - opzetten Azure server LAMP en WISA - research Azure Linux image capturing - Image van stack nemen en reproduceren + cheat sheet van de manier van werken - documenteren weekrapport en opdracht 3
 
-Mike Lobbezoo - opzetten JavaEEStack + image creatie van de vhd's in Azure Server. Reproduceren van vhd door middel van de image + controle van geïnstalleerde software op de backup vhd. Bekijken van scripting + testen in de azure server "omgeving". Documenteren opdracht 3 + voorbereiding opdracht 4.
+**Mike Lobbezoo** - opzetten JavaEEStack + image creatie van de vhd's in Azure Server. Reproduceren van vhd door middel van de image + controle van geïnstalleerde software op de backup vhd. Bekijken van scripting + testen in de azure server "omgeving". Documenteren opdracht 3 + voorbereiding opdracht 4.
 
-Davy De Cock - opzetten JavaEEStack + image creatie van de vhd's in Azure Server. Reproduceren van vhd door middel van de image + controle van geïnstalleerde software op de backup vhd. Bekijken van scripting + testen in de azure server "omgeving". Documenteren opdracht 3 + voorbereiding opdracht 4.
+**Davy De Cock** - opzetten JavaEEStack + image creatie van de vhd's in Azure Server. Reproduceren van vhd door middel van de image + controle van geïnstalleerde software op de backup vhd. Bekijken van scripting + testen in de azure server "omgeving". Documenteren opdracht 3 + voorbereiding opdracht 4.
 
-Siebert Timmermans - opzetten Azure server LAMP en WISA - research Azure Linux image capturing - Image van stack nemen en reproduceren + cheat sheet van de manier van werken - documenteren weekrapport en opdracht 3
+**Siebert Timmermans** - opzetten Azure server LAMP en WISA - research Azure Linux image capturing - Image van stack nemen en reproduceren + cheat sheet van de manier van werken - documenteren weekrapport en opdracht 3
 
 ### Testing ###
 Robby Den Haese - to do
