@@ -51,7 +51,7 @@
 * Opdracht 3: Scripting beginfase + eventuele testjes uitvoeren
 * Documenteren opdracht 3
 
-[Afbeelding individueel rapport tijdregistratie]
+![Toggl Davy](http://i65.tinypic.com/351df1f.jpg "Toggl Davy")
 
 ### Mike Lobbezoo
 
