@@ -66,14 +66,13 @@
 
 
 ### Siebert Timmermans
-
 - WISAstack verder uitwerken, script voor LAMPstack en WISAstack
 - documenteren
-- WISAstack verder uitwerken, script voor LAMPstack en WISAstack
-- documenteren
-
 
 ### Robby Den Haese 
+- WISAstack verder uitwerken, script voor LAMPstack en WISAstack
+- documenteren
+
 ### Davy De Cock
 ### Mike Lobberzoo
 
