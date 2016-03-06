@@ -15,9 +15,7 @@
 ### Algemeen
 
 [Afbeelding huidige toestand Kanban-bord(en) invoegen]
-
-* ...
-* ...
+![Kanban](http://i65.tinypic.com/351df1f.jpg "Kanban")
 
 [Afbeelding teamoverzicht tijdregistratie onderverdeeld per deelopdracht]
 
