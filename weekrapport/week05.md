@@ -19,7 +19,7 @@
 
 ###Tijdsregistratie teamoverzicht
 
-Todo Robby
+To do Robby
 
 ### Siebert Timmermans
 
@@ -41,7 +41,7 @@ Todo Robby
 * Opdracht 3: image van LAMPstack nemen
 * Documenteren opdracht 3
 
-[Afbeelding individueel rapport tijdregistratie]
+To do Robby [Afbeelding individueel rapport tijdregistratie]
 
 ### Davy De Cock
 
