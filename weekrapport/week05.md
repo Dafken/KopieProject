@@ -69,9 +69,11 @@
 
 - WISAstack verder uitwerken, script voor LAMPstack en WISAstack
 - documenteren
-### Robby Den Haese 
 - WISAstack verder uitwerken, script voor LAMPstack en WISAstack
 - documenteren
+
+
+### Robby Den Haese 
 ### Davy De Cock
 ### Mike Lobberzoo
 
