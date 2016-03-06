@@ -1,7 +1,7 @@
 Java EE stack opzetten 
 ------
 
-#OPMERKING#
+##OPMERKING
 
 In de VM die gaat gebruiken als image mag je GEEN SSH instellen met public en private keys. Dit wordt onthouden wanneer je de image achteraf gebruikt, waardoor eerst een SSH reset nodig is via Azure CLI.
 
