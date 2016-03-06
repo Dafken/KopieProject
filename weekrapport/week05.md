@@ -30,7 +30,7 @@
 * Opdracht 3: image van LAMPstack nemen
 * Documenteren opdracht 3
 
-[Afbeelding individueel rapport tijdregistratie]
+![Toggl Sieb](https://i.gyazo.com/d3f71df59ee4c5a4040373da98d8b8ae.png "Toggl Sieb")
 
 ### Robby Den Haese
 
