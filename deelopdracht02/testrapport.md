@@ -1,7 +1,3 @@
-# Testrapport taak 1: (titel)
-
-(Een testrapport is het verslag van de uitvoering van het testplan door een teamlid (iemand anders dan de auteur van het testplan!). Deze noteert bij elke stap in het testplan of het bekomen resultaat overeenstemt met wat verwacht werd. Indien niet, dan is het belangrijk om gedetailleerd op te geven wat er misloopt, wat het effectieve resultaat was, welke foutboodschappen gegenereerd werden, enz. De tester kan meteen een Github issue aanmaken en er vanuit het testrapport naar verwijzen. Wanneer het probleem opgelost werdt, wordt een nieuwe test uitgevoerd, met een nieuw verslag.)
-
 ## Testplan LAMPstack
 
 Testplan werkte volledig, enkel probleem met connecteren aan nieuwe VM aangezien de originele VM (image) met SSH ingesteld was met keys. 
@@ -14,4 +10,13 @@ Uitvoerder(s) test: Robby en Siebert
 
 Uitgevoerd op: 04/03/2016
 
-Github commit:  COMMIT HASH
+
+## Testplan JavaEEStack
+
+Geen problemen ondervonden. Alles verliep naar wens, dit was mede mogelijk door de cheatsheet van de medestudenten. 
+
+----------
+
+Uitvoerder(s) test: Davy De Cock en Mike Lobbezoo
+
+Uitgevoerd op: 06/03/2016
