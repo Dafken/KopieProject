@@ -63,7 +63,7 @@
 * Opdracht 3: Scripting beginfase + eventuele testjes uitvoeren
 * Documenteren opdracht 3
 
-[Afbeelding individueel rapport tijdregistratie]
+![Toggl Mike](http://i66.tinypic.com/21kean9.jpg "Toggl Mike")
 
 ## Wat plan je volgende week te doen?
 
