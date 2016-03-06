@@ -1,26 +1,26 @@
 # Lastenboek Taak 2: (Servers aanmaken via scripts)
 
 ### Uitvoering ###
-Robby Den Haese - opzetten Azure server - CentOS
+Robby Den Haese - opzetten Azure server LAMP en WISA - research Azure Linux image capturing - Image van stack nemen en reproduceren + cheat sheet van de manier van werken - documenteren weekrapport en opdracht 3
 
-Mike Lobbezoo - labo 2 en 4 virtueel,  labo 1, 2, 3, 4 fysiek
+Mike Lobbezoo - to do
 
-Davy De Cock - labo 2 en 4 virtueel,  labo 1, 2, 3, 4 fysiek
+Davy De Cock - to do
 
-Siebert Timmermans - opzetten Azure server - CentOS
+Siebert Timmermans - opzetten Azure server LAMP en WISA - research Azure Linux image capturing - Image van stack nemen en reproduceren + cheat sheet van de manier van werken - documenteren weekrapport en opdracht 3
 
 ### Testing ###
-Robby Den Haese - testplan labo 1, 2, 3, 4
+Robby Den Haese - to do
 
-Mike Lobbezoo - testrapport labo 1, 2, 3, 4
+Mike Lobbezoo - to do
 
-Davy De Cock - testrapport labo 1, 2, 3, 4
+Davy De Cock - to do
 
-Siebert Timmermans - testplan labo 1, 2, 3, 4
+Siebert Timmermans - to do
 
 ## Deliverables
 
-Uit de labo's leren werken met cisco apparaten en packet tracer
+VM's leren bewerken, OS's verder leren kennen, servers aanbieden en scripts leren schrijven voor automatisatie.
 
 ## Deeltaken
 
@@ -39,9 +39,9 @@ Uit de labo's leren werken met cisco apparaten en packet tracer
 
 | Student  | Geschat | Gerealiseerd |
 | :---     |    ---: |         ---: |
-| Siebert Timmermans |    30 uur     |      +- 8 uur       |
-| Robby Den Haese|     10 uur    |      +- 8 uur        |
-| Davy De Cock |     10 uur    |      +- 15 uur        |
-| Mike Lobbezoo |    10 uur     |      +- 15 uur        |
+| Siebert Timmermans |    30 uur     |           |
+| Robby Den Haese|     to do    |              |
+| Davy De Cock |     to do    |             |
+| Mike Lobbezoo |    to do     |             |
 
-![](https://i.gyazo.com/0935d0259065afdbd36343f8430973d2.png)
+To do - Toggl met totaal aantal uren opdracht van iedereen
