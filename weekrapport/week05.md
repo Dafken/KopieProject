@@ -45,13 +45,25 @@
 
 ### Davy De Cock
 
-* ...
+* Opdracht 2: labo 4 fysiek
+* Opdracht 3: Hoe gaan we dit aanpakken?
+* Opdracht 3: Server JavaEEStack aanmaken + configureren
+* Opdracht 3: JavaEEStack op Azure Server installeren
+* Opdracht 3: image nemen van de geconfigureerde JavaEEStack Server
+* Opdracht 3: Scripting beginfase + eventuele testjes uitvoeren
+* Documenteren opdracht 3
 
 [Afbeelding individueel rapport tijdregistratie]
 
-### Mike Lobberzoo
+### Mike Lobbezoo
 
-* ...
+* Opdracht 2: labo 4 fysiek
+* Opdracht 3: Hoe gaan we dit aanpakken?
+* Opdracht 3: Server JavaEEStack aanmaken + configureren
+* Opdracht 3: JavaEEStack op Azure Server installeren
+* Opdracht 3: image nemen van de geconfigureerde JavaEEStack Server
+* Opdracht 3: Scripting beginfase + eventuele testjes uitvoeren
+* Documenteren opdracht 3
 
 [Afbeelding individueel rapport tijdregistratie]
 
@@ -74,12 +86,22 @@
 - documenteren
 
 ### Davy De Cock
-### Mike Lobberzoo
+- JavaEEStack Scripting
+- Uitwerking voor zowel cloud-based server als private server
+- Eventueel brainstormen over opdeling pand (indien opdracht is vrijgegeven)
+
+
+### Mike Lobbezoo
+- JavaEEStack Scripting
+- Uitwerking voor zowel cloud-based server als private server
+- Eventueel brainstormen over opdeling pand (indien opdracht is vrijgegeven)
+
 
 ## Waar hebben jullie nog problemen mee?
 
-* ...
-* ...
+* Goede tijdsinschatting maken
+* Planning
+* Documenteren
 
 ## Feedback technisch luik
 
@@ -88,7 +110,7 @@
 ### Siebert Timmermans
 ### Robby Den Haese 
 ### Davy De Cock
-### Mike Lobberzoo
+### Mike Lobbezoo
 
 ## Feedback analyseluik
 
@@ -97,5 +119,5 @@
 ### Siebert Timmermans
 ### Robby Den Haese 
 ### Davy De Cock
-### Mike Lobberzoo
+### Mike Lobbezoo
 
