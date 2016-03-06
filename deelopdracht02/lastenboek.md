@@ -3,9 +3,9 @@
 ### Uitvoering ###
 Robby Den Haese - opzetten Azure server LAMP en WISA - research Azure Linux image capturing - Image van stack nemen en reproduceren + cheat sheet van de manier van werken - documenteren weekrapport en opdracht 3
 
-Mike Lobbezoo - to do
+Mike Lobbezoo - opzetten JavaEEStack + image creatie van de vhd's in Azure Server. Reproduceren van vhd door middel van de image + controle van geïnstalleerde software op de backup vhd. Bekijken van scripting + testen in de azure server "omgeving". Documenteren opdracht 3 + voorbereiding opdracht 4.
 
-Davy De Cock - to do
+Davy De Cock - opzetten JavaEEStack + image creatie van de vhd's in Azure Server. Reproduceren van vhd door middel van de image + controle van geïnstalleerde software op de backup vhd. Bekijken van scripting + testen in de azure server "omgeving". Documenteren opdracht 3 + voorbereiding opdracht 4.
 
 Siebert Timmermans - opzetten Azure server LAMP en WISA - research Azure Linux image capturing - Image van stack nemen en reproduceren + cheat sheet van de manier van werken - documenteren weekrapport en opdracht 3
 
@@ -41,7 +41,7 @@ VM's leren bewerken, OS's verder leren kennen, servers aanbieden en scripts lere
 | :---     |    ---: |         ---: |
 | Siebert Timmermans |    30 uur     |           |
 | Robby Den Haese|     to do    |              |
-| Davy De Cock |     to do    |             |
-| Mike Lobbezoo |    to do     |             |
+| Davy De Cock |     32 uur    |             |
+| Mike Lobbezoo |    35 uur     |             |
 
 To do - Toggl met totaal aantal uren opdracht van iedereen
