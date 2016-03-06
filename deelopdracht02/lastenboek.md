@@ -39,7 +39,7 @@ Uit de labo's leren werken met cisco apparaten en packet tracer
 
 | Student  | Geschat | Gerealiseerd |
 | :---     |    ---: |         ---: |
-| Siebert Timmermans |    10 uur     |      +- 8 uur       |
+| Siebert Timmermans |    30 uur     |      +- 8 uur       |
 | Robby Den Haese|     10 uur    |      +- 8 uur        |
 | Davy De Cock |     10 uur    |      +- 15 uur        |
 | Mike Lobbezoo |    10 uur     |      +- 15 uur        |
