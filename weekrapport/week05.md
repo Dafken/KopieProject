@@ -1,14 +1,14 @@
-# Voortgangsrapport week 05
+# Voortgangsrapport week 05 (en 04 door ziekte Lector Van Steen)
 
 * Groep: ops2-g12
 * Datum: 07/03/2016
 
 | Student  | Aanw. | Opmerking |
 | :---     | :---  | :---      |
-| Siebert Timmermans |       |           |
-| Robby Den Haese |       |           |
-| Davy De Cock |       |           |
-| Mike Lobberzoo |       |           |
+| Siebert Timmermans | X      |           |
+| Robby Den Haese |   X    |           |
+| Davy De Cock |    X   |           |
+| Mike Lobberzoo |   X    |           |
 
 ## Wat heb je deze week gerealiseerd?
 
@@ -107,6 +107,18 @@
 ## Feedback technisch luik
 
 ### Algemeen
+* Weekrapport goed ingevuld en tijdsregistratie correct genoteerd.
+* Cisco Packet Tracer oefening correct geïmplementeerd.
+* Cisco cheat sheet goed uitgewerkt.
+* Cisco Labo 1 implementatie, testplan en rapport uitgewerkt. Test plan mag wel geen implementatie stappen plan zijn.
+* Cisco Labo 2 implementatie, testplan en rapport uitgewerkt.
+* Cisco Labo 3 implementatie, testplan en rapport uitgewerkt.
+* Cisco Labo 4 implementatie, testplan en rapport uitgewerkt.
+* Lastenboek is uitgewerkt voor Cisco deelopdracht maar mag iets specifieker. Bvb Deliverables is niet volledig. Hiertoe behoren de deeltaken, testplannen en raporten.
+* Cheatsheet Lamp stack goed uitgewerkt.
+* Windows Azure Lamp stack goed uitgewerkt. Demo getoond. Powershell script geschreven voor automatisatie.
+* Java Applicatieserver Tomcat goed uitgewerkt. Demo getoond. Backup oplossing uitgewerkt
+
 
 ### Siebert Timmermans
 ### Robby Den Haese 
