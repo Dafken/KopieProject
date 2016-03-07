@@ -187,10 +187,11 @@ Script
 -----------
 
 ###Prerequisites
-You own an Azure subscription and you are logged in into the Azure CLI
-* [AzureCLIGitHub](https://github.com/Azure/azure-content/blob/master/articles/xplat-cli-install.md "Download Azure CLI")
+* You own an Azure subscription and you are logged in into the Azure CLI. If you don't have the Azure CLI installed, check
+[AzureCLIGitHub](https://github.com/Azure/azure-content/blob/master/articles/xplat-cli-install.md "Download Azure CLI")
 
 * If you don't know how to login to azure, check [this](https://github.com/Azure/azure-content/blob/master/articles/xplat-cli-connect.md "connect Azure in CLI").
+
 Don't forget to restart your computer after the installation, afterwards you can work with the Azure CLI in both cmd and PowerShell.
 
 
