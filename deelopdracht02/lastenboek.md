@@ -1,13 +1,13 @@
 # Lastenboek Taak 2: (Servers aanmaken via scripts)
 
 ### Uitvoering ###
-**Robby Den Haese** - opzetten Azure server LAMP en WISA - research Azure Linux image capturing - Image van stack nemen en reproduceren + cheat sheet van de manier van werken - documenteren weekrapport en opdracht 3
+**Robby Den Haese** - opzetten Azure server LAMP en WISA - research Azure Linux image capturing - Image van stack nemen en reproduceren + cheat sheet van de manier van werken - WISA script - documenteren weekrapport en opdracht 3
 
-**Mike Lobbezoo** - opzetten JavaEEStack + image creatie van de vhd's in Azure Server. Reproduceren van vhd door middel van de image + controle van geïnstalleerde software op de backup vhd. Bekijken van scripting + testen in de azure server "omgeving". Documenteren opdracht 3.
+**Mike Lobbezoo** - opzetten JavaEEStack + image creatie van de vhd's in Azure Server. Reproduceren van vhd door middel van de image + controle van geïnstalleerde software op de backup vhd. Bekijken van scripting + testen in de azure server "omgeving". Documenteren opdracht 3 + voorbereiding opdracht 4.
 
-**Davy De Cock** - opzetten JavaEEStack + image creatie van de vhd's in Azure Server. Reproduceren van vhd door middel van de image + controle van geïnstalleerde software op de backup vhd. Bekijken van scripting + testen in de azure server "omgeving". Documenteren opdracht 3.
+**Davy De Cock** - opzetten JavaEEStack + image creatie van de vhd's in Azure Server. Reproduceren van vhd door middel van de image + controle van geïnstalleerde software op de backup vhd. Bekijken van scripting + testen in de azure server "omgeving". Documenteren opdracht 3 + voorbereiding opdracht 4.
 
-**Siebert Timmermans** - opzetten Azure server LAMP en WISA - research Azure Linux image capturing - Image van stack nemen en reproduceren + cheat sheet van de manier van werken - documenteren weekrapport en opdracht 3
+**Siebert Timmermans** - opzetten Azure server LAMP en WISA - research Azure Linux image capturing - Image van stack nemen en reproduceren + cheat sheet van de manier van werken - WISA script - documenteren weekrapport en opdracht 3
 
 ### Testing ###
 Robby Den Haese - LAMP stack opzetten, scripting hiervan
@@ -32,9 +32,7 @@ VM's leren bewerken, OS's verder leren kennen, servers aanbieden en scripts lere
 - LAMP stack Azure server installeren
 - Image capturen van LAMP stack
 - Cheatsheet aanmaken van LAMPstack
-- JavaEEStack Server installeren
-- JavaEEStack server --> image capturen
-- Cheatsheet aanmaken van JavaEEStack
+- WISA script 
 - Testrapport aanvullen
 
 
