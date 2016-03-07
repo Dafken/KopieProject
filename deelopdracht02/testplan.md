@@ -28,6 +28,10 @@ Kan ik connecteren van op elke pc aan de CentOS en Windows 2012 server?
 
 ### Testplan LAMPstack script
 
+ -  Heb je CLI?
+ -  Ingelogd op Azure?
+ -  Werkt het script?
+
 Auteurs testplan: Robby Den Haese, Siebert Timmermans
 
 
