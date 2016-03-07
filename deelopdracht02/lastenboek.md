@@ -39,6 +39,7 @@ VM's leren bewerken, OS's verder leren kennen, servers aanbieden en scripts lere
 - WISA script 
 - Testrapport aanvullen
 - WISA Stack aanmaken (SQLserver en ASP.net)
+- WISA Stack deploybaar maken via script
 
 
 ## Tijdbesteding

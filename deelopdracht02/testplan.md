@@ -35,8 +35,10 @@ Kan ik connecteren van op elke pc aan de CentOS en Windows 2012 server?
 ### Testplan WISA stack
 
 - Kan je connecteren met de server?
-- Is MySQL of SQLServer geinstalleerd?
+- Is IIS geinstalleerd?
+- Is MySQL of SQLServer geinstalleerd (of zit het al bij je OS)?
 - Is ASP.net geinstalleerd?
+- Kan je bij localhost het IIS startscherm zien?
 
 Auteurs testplan: Robby Den Haese, Siebert Timmermans
 
