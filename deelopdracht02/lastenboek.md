@@ -32,11 +32,13 @@ VM's leren bewerken, OS's verder leren kennen, servers aanbieden en scripts lere
 - LAMP stack Azure server installeren
 - Image capturen van LAMP stack
 - Cheatsheet aanmaken van LAMPstack
+- LAMP stack script aanmaken
 - JavaEEStack Server installeren
 - JavaEEStack server --> image capturen
 - Cheatsheet aanmaken van JavaEEStack
 - WISA script 
 - Testrapport aanvullen
+- WISA Stack aanmaken (SQLserver en ASP.net)
 
 
 ## Tijdbesteding
