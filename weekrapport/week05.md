@@ -129,6 +129,14 @@
 
 ### Algemeen
 
+* Kanbanbord
+  * +testplan/testrapport worden als volwaardige aparte taken gezien
+  * eindverantwoordelijken toekennen aan elke taak (momenteel is dit bij een aantal taken reeds OK)
+  * tijdsinschatting & effectief gepresteerde uren per taak noteren
+* +Structuur testplan zit goed
+* Testrapport: herneem de checklist van testplan, noteer hoe het testen is gebeurd en wat de resultaten zijn. (meer gedetailleerd volgens testplan)
+* Lastenboek - deliverables: noteer alle tastbare resultaten van de opdracht (VM's, handleiding, testplan, testrapport, ...)
+
 ### Siebert Timmermans
 ### Robby Den Haese 
 ### Davy De Cock
