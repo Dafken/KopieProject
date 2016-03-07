@@ -194,6 +194,7 @@ Script
 
 Don't forget to restart your computer after the installation, afterwards you can work with the Azure CLI in both cmd and PowerShell.
 
+###Script code
 
 	#Variables:
 	$newResourceGroup = ""
@@ -217,6 +218,11 @@ Don't forget to restart your computer after the installation, afterwards you can
     #Creation of ip for the network   
     azure network public-ip create $newResourceGroup $ipName -l "$zone"
     
+Choose your network configuration by filling in the variables, after that, simply run this code in to your CLI
+
+You will be prompted to enter your new VMname, AdminUser and AdminPW
+
+If you want to use this script as a batch file, open it up in notepad and save as scriptname.bat
 
 -----
 Source: [GitHub Azure Linux VM Image Capturing](https://github.com/Azure/azure-content/blob/master/articles/virtual-machines/virtual-machines-linux-capture-image-resource-manager.md)
