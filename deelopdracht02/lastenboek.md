@@ -40,7 +40,7 @@ VM's leren bewerken, OS's verder leren kennen, servers aanbieden en scripts lere
 | Student  | Geschat | Gerealiseerd |
 | :---     |    ---: |         ---: |
 | Siebert Timmermans |    30 uur     |           |
-| Robby Den Haese|     32.5    |              |
+| Robby Den Haese|     32.5 uur   |              |
 | Davy De Cock |     32 uur    |             |
 | Mike Lobbezoo |    35 uur     |             |
 
