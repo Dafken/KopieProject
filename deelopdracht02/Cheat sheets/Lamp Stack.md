@@ -110,6 +110,8 @@ Om de image te dupliceren hebben we nu eerst een netwerkconfiguratie nodig. We d
 ResourceGroup voor nieuw netwerk aanmaken
 ----
 
+centralus = westeurope indien je in europa zit
+
 	azure group create <your-new-resource-group-name> -l "centralus"
     
     azure network vnet create <your-new-resource-group-name> <your-vnet-name> -l "centralus"
@@ -133,6 +135,8 @@ Via de json en resource groep kan je nu een nieuwe VM aanmaken
 	azure group deployment create –g <your-new-resource-group-name> -n <your-new-deployment-name> -f <your-template-file-name.json>
 
 Hierna wordt gevraagd om een user met pw aan te maken, geef ook de NIC mee die we opgevraagd hadden
+
+**Opmerking**: paswoord moet volgende bevatten (6-72 character, uppercase character, lowercase character, number or special character) 
 
     info:Executing command group deployment create
     info:Supply values for the following parameters
@@ -178,12 +182,34 @@ Om het IP-adres op te vragen
 
 	azure network public-ip show <your-new-resource-group-name> <your-ip-name>
 
-# TO DO #
-- laatste stappen verwerken in script, met parameters die we kunnen aanpassen voor elk nieuw netwerk
 
-
+Script
 -----------
 
+	#Variables:
+	$newResourceGroup = ""
+	$zone = ""
+    $vnetName = "" 
+    $subnetName = ""
+    $ipName = ""  
+    $nicName = ""
+    $deploymentName = ""
+    $jsonName = "  .json"    
+    
+    #Creation of new ResourceGroup which contains the network settings
+    azure group create $newResourceGroup -l "$zone"
+    
+    #Creation of vnet for the network    
+    azure network vnet create $newResourceGroup $vnetName -l "$zone"
+    
+    #Creation of subnet for the network
+    azure network vnet subnet create $newResourceGroup $vnetName $subnetName -a 10.0.0.0/8
+    
+    #Creation of ip for the network   
+    azure network public-ip create $newResourceGroup $ipName -l "$zone"
+    
+
+-----
 Auteurs: Robby en Siebert
 
 
