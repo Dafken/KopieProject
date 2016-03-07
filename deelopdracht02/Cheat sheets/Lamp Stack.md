@@ -190,7 +190,8 @@ Script
 You own an Azure subscription and you are logged in into the Azure CLI
 * [AzureCLIGitHub](https://github.com/Azure/azure-content/blob/master/articles/xplat-cli-install.md "Download Azure CLI")
 
-*Herstart je computer en open de command prompt. Login op je Azure. Instructies [hier](https://github.com/Azure/azure-content/blob/master/articles/xplat-cli-connect.md "connect Azure in CLI")*.
+* If you don't know how to login to azure, check [this](https://github.com/Azure/azure-content/blob/master/articles/xplat-cli-connect.md "connect Azure in CLI")*
+Don't forget to restart your computer after the installation, afterwards you can work with the Azure CLI in both cmd and PowerShell.
 
 	#Variables:
 	$newResourceGroup = ""
