@@ -210,7 +210,8 @@ Script
     
 
 -----
-Auteurs: Robby en Siebert
+Source: [I'm an inline-style link](https://github.com/Azure/azure-content/blob/master/articles/virtual-machines/virtual-machines-linux-capture-image-resource-manager.md)
+Authors: Robby en Siebert
 
 
 
