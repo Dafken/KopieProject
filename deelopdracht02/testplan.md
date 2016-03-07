@@ -31,6 +31,12 @@ Kan ik connecteren van op elke pc aan de CentOS en Windows 2012 server?
  -  Heb je CLI?
  -  Ingelogd op Azure?
  -  Werkt het script?
+ 
+### Testplan WISA stack
+
+- Kan je connecteren met de server?
+- Is MySQL of SQLServer geinstalleerd?
+- Is ASP.net geinstalleerd?
 
 Auteurs testplan: Robby Den Haese, Siebert Timmermans
 
@@ -57,5 +63,7 @@ Auteurs testplan: Robby Den Haese, Siebert Timmermans
 - Kan je connecteren met de nieuwe VM door gebruik te maken van het ip-adres en een SSH-client zoals bv. mobaXterm?  
 
 ### Testplan JavaEEStack script
+
+ - Werkt het script?
 
 Auteurs testplan: Mike Lobbezoo, Davy De Cock
