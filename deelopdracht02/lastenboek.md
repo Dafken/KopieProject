@@ -10,13 +10,13 @@
 **Siebert Timmermans** - opzetten Azure server LAMP en WISA - research Azure Linux image capturing - Image van stack nemen en reproduceren + cheat sheet van de manier van werken - documenteren weekrapport en opdracht 3
 
 ### Testing ###
-Robby Den Haese - to do
+Robby Den Haese - LAMP stack opzetten, scripting hiervan
 
-Mike Lobbezoo - to do
+Mike Lobbezoo - JavaEE stack opzetten, scripting hiervan
 
-Davy De Cock - to do
+Davy De Cock - JavaEE stack opzetten, scripting hiervan
 
-Siebert Timmermans - to do
+Siebert Timmermans - LAMP stack opzetten, scripting hiervan
 
 ## Deliverables
 
@@ -40,7 +40,7 @@ VM's leren bewerken, OS's verder leren kennen, servers aanbieden en scripts lere
 | Student  | Geschat | Gerealiseerd |
 | :---     |    ---: |         ---: |
 | Siebert Timmermans |    30 uur     |           |
-| Robby Den Haese|     to do    |              |
+| Robby Den Haese|     32.5    |              |
 | Davy De Cock |     32 uur    |             |
 | Mike Lobbezoo |    35 uur     |             |
 
