@@ -188,9 +188,9 @@ Script
 
 ###Prerequisites
 You own an Azure subscription and you are logged in into the Azure CLI
-* [AzureCLIGitHub](https://github.com/Azure/azure-content/blob/master/articles/xplat-cli-install.md "Download Azure CLI")*
+* [AzureCLIGitHub](https://github.com/Azure/azure-content/blob/master/articles/xplat-cli-install.md "Download Azure CLI")
 
-*Herstart je computer en open de command prompt. Login op je Azure. Instructies [hier](https://github.com/Azure/azure-content/blob/master/articles/xplat-cli-connect.md "connect Azure in CLI")*
+*Herstart je computer en open de command prompt. Login op je Azure. Instructies. [hier](https://github.com/Azure/azure-content/blob/master/articles/xplat-cli-connect.md "connect Azure in CLI")*
 
 	#Variables:
 	$newResourceGroup = ""
