@@ -222,7 +222,9 @@ Choose your network configuration by filling in the variables, after that, simpl
 
 You will be prompted to enter your new VMname, AdminUser and AdminPW
 
-If you want to use this script as a batch file, open it up in notepad and save as scriptname.bat
+Warning: password must have (6-72 characters, uppercase character, lowercase character, number or special character)
+
+If you want to use this script as a batch file, open it up in notepad and save as "scriptname.bat"
 
 -----
 Source: [GitHub Azure Linux VM Image Capturing](https://github.com/Azure/azure-content/blob/master/articles/virtual-machines/virtual-machines-linux-capture-image-resource-manager.md)
