@@ -1,26 +1,26 @@
 # Lastenboek Taak 2: (Servers aanmaken via scripts)
 
 ### Uitvoering ###
-**Robby Den Haese** - opzetten Azure server LAMP en WISA - research Azure Linux image capturing - Image van stack nemen en reproduceren + cheat sheet van de manier van werken - WISA script - documenteren weekrapport en opdracht 3
+**Robby Den Haese** - opzetten Azure server LAMP en WISA - research Azure Linux image capturing - Image van stack nemen en reproduceren + cheat sheet van de manier van werken - WISA + script + cheat sheet - documenteren weekrapport en opdracht 3 - Wordpress op LAMP stack zetten
 
 **Mike Lobbezoo** - opzetten JavaEEStack + image creatie van de vhd's in Azure Server. Reproduceren van vhd door middel van de image + controle van geïnstalleerde software op de backup vhd. Bekijken van scripting + testen in de azure server "omgeving". Documenteren opdracht 3.
 
 **Davy De Cock** - opzetten JavaEEStack + image creatie van de vhd's in Azure Server. Reproduceren van vhd door middel van de image + controle van geïnstalleerde software op de backup vhd. Bekijken van scripting + testen in de azure server "omgeving". Documenteren opdracht 3.
 
-**Siebert Timmermans** - opzetten Azure server LAMP en WISA - research Azure Linux image capturing - Image van stack nemen en reproduceren + cheat sheet van de manier van werken - WISA script - documenteren weekrapport en opdracht 3
+**Siebert Timmermans** - opzetten Azure server LAMP en WISA - research Azure Linux image capturing - Image van stack nemen en reproduceren + cheat sheet van de manier van werken - WISA + script + Cheat sheet - documenteren weekrapport en opdracht 3 - Wordpress op LAMP stack zetten
 
 ### Testing ###
-Robby Den Haese - LAMP stack opzetten, scripting hiervan
+Robby Den Haese - LAMP stack opzetten, scripting hiervan, WISA stack (public cloud versie) opzetten, Scripting hiervan
 
 Mike Lobbezoo - JavaEE stack opzetten, scripting hiervan
 
 Davy De Cock - JavaEE stack opzetten, scripting hiervan
 
-Siebert Timmermans - LAMP stack opzetten, scripting hiervan
+Siebert Timmermans - LAMP stack opzetten, scripting hiervan, WISA stack (public cloud versie) opzetten, Scripting hiervan
 
 ## Deliverables
 
-VM's leren bewerken, OS's verder leren kennen, servers aanbieden en scripts leren schrijven voor automatisatie.
+WISA stack, JavaEE stack en LAMP stack voor zowel public(Azure) als private(Vagrant met VirtualBox) cloud via scripts en gui + cheat sheets hiervoor samen met testplannen en rapporten.
 
 ## Deeltaken
 
@@ -40,6 +40,7 @@ VM's leren bewerken, OS's verder leren kennen, servers aanbieden en scripts lere
 - Testrapport aanvullen
 - WISA Stack aanmaken (SQLserver en ASP.net)
 - WISA Stack deploybaar maken via script
+- Wordpress op de Apache van LAMP stack draaien
 
 
 ## Tijdbesteding
