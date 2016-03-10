@@ -42,6 +42,19 @@ Kan ik connecteren van op elke pc aan de CentOS en Windows 2012 server?
 
 Auteurs testplan: Robby Den Haese, Siebert Timmermans
 
+### Testplan WISA stack script
+- Ben je ingelogd op Azure via je PowerShell?
+- Is de PowerShell directory aangemaakt en is het script hierin geplaatst?
+- Is het certificaat gedownload en is dit hierin geplaatst?
+- Zijn deze modules geimplementeerd?
+- Krijg je geen errors bij runnen van script?
+- Kan je connecteren met de server?
+- Is IIS geinstalleerd?
+- Is ASP.net geinstalleerd?
+- Kan je bij localhost het IIS startscherm zien?
+
+Auteurs testplan: Robby Den Haese, Siebert Timmermans
+
 
 ### Testplan JavaEEStack
 
