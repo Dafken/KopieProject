@@ -43,6 +43,7 @@ Kan ik connecteren van op elke pc aan de CentOS en Windows 2012 server?
 Auteurs testplan: Robby Den Haese, Siebert Timmermans
 
 ### Testplan WISA stack script
+- Heb je Azure CLI voor PowerShell?
 - Ben je ingelogd op Azure via je PowerShell?
 - Is de PowerShell directory aangemaakt en is het script hierin geplaatst?
 - Is het certificaat gedownload en is dit hierin geplaatst?
