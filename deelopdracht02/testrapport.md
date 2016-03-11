@@ -11,6 +11,7 @@ Uitvoerder(s) test: Robby en Siebert
 Uitgevoerd op: 04/03/2016
 
 ## Testplan WISA stack script
+- Heb je Azure CLI voor PowerShell? Ja
 - Ben je ingelogd op Azure via je PowerShell? Ja
 
 ![](https://i.gyazo.com/9b633f5a2f59a7c76d9c12e0972eb66f.png)

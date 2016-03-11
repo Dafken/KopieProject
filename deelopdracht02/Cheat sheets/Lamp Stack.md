@@ -217,6 +217,12 @@ Don't forget to restart your computer after the installation, afterwards you can
     
     #Creation of ip for the network   
     azure network public-ip create $newResourceGroup $ipName -l "$zone"
+
+    #Creation of nic for the network
+    azure network nic create $newResourceGroup $nicName -k $subnetName -m $vnetName -p $ipName -l "$zone"
+    
+    #Creation of the Virtual Machine with resourcegroup(network) deploymentname, and json image as parameters
+    azure group deployment create –g $newResourceGroup -n $deploymentName -f $jsonName -g $newResourceGroup
     
 Choose your network configuration by filling in the variables, after that, simply run this code in to your CLI
 
