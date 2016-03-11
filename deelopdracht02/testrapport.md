@@ -4,6 +4,42 @@ Testplan werkte volledig, enkel probleem met connecteren aan nieuwe VM aangezien
 
 Ook belangrijk om op te letten bij spelling bij aanmaak resourcegroup(netwerk) en VM.
 
+- Is Apache geinstalleerd en kan je de status controlleren? Ja
+
+- Is MariaDB geinstalleerd en kan je de status controlleren? Ja
+
+- Is php geinstalleerd en kan je de status controlleren? Ja 
+
+- Heb je de VM voorbereid om image van te nemen? Ja 
+
+- Heb je Azure CLI geïnstalleerd? Ja
+
+- Heb je image genomen? Ja
+
+- Heb je resourcegroup aangemaakt voor het nieuwe netwerk? Ja
+
+- Heb je de nieuwe VM aangemaakt met nieuwe user en pw? Ja
+
+- Kan je connecteren aan de nieuwe VM mbv het ip adres en een connector zoals bv. mobaXterm? Ja
+
+- Kan je wordpress deployen op de LAMP stack? Ja
+
+![](https://i.gyazo.com/b02b2559d03664019b09e5e828e696f9.png)
+
+## Testplan LAMPstack script
+
+-  Heb je CLI? Ja
+-  Ingelogd op Azure? Ja
+-  Werkt het script? Ja
+-  Kan je connecteren aan de VM? Ja
+-  Kan je wordpress deployen op de LAMP stack? Ja
+
+![](https://i.gyazo.com/30313df81af90df6a817b70aa2b56363.png)
+![](https://i.gyazo.com/3384a76b8c4e3ccf2469bedb0226f906.png)
+![](https://i.gyazo.com/4bd8b61d38c02b6a71c879972eba5b24.png)
+
+![](https://i.gyazo.com/b02b2559d03664019b09e5e828e696f9.png)
+
 ----------
 
 Uitvoerder(s) test: Robby en Siebert

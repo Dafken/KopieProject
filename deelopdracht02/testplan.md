@@ -24,13 +24,17 @@ Kan ik connecteren van op elke pc aan de CentOS en Windows 2012 server?
 
 - Heb je de nieuwe VM aangemaakt met nieuwe user en pw?
 
-- Kan je connecteren aan de nieuwe VM mbv het ip adres en een connector zoals bv. mobaXterm?  
+- Kan je connecteren aan de nieuwe VM mbv het ip adres en een connector zoals bv. mobaXterm?
+
+- Kan je wordpress deployen op de LAMP stack?
 
 ### Testplan LAMPstack script
 
  -  Heb je CLI?
  -  Ingelogd op Azure?
  -  Werkt het script?
+ -  Kan je connecteren aan de VM?
+ -  Kan je wordpress deployen op de LAMP stack?
  
 ### Testplan WISA stack
 
