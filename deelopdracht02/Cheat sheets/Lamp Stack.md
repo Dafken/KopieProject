@@ -232,8 +232,121 @@ Warning: password must have (6-72 characters, uppercase character, lowercase cha
 
 If you want to use this script as a batch file, open it up in notepad and save as "scriptname.bat"
 
+
+
+Install WordPress
+--------
+
+Log in on mysql root 
+
+	mysql -u root -p
+
+First create a new database that WordPress can control
+
+	CREATE DATABASE wordpress;
+
+Create a new mysql account user 
+
+wordpressuser = accountname
+password = password
+
+	CREATE USER wordpressuser@localhost IDENTIFIED BY 'password';
+
+Link the user to the database
+
+	GRANT ALL PRIVILEGES ON wordpress.* TO wordpressuser@localhost IDENTIFIED BY 'password';
+
+Flush the privileges so that MySQL knows about the recent privilege changes that we've made:
+
+	FLUSH PRIVILEGES;
+
+Exit mysql
+
+	exit
+
+-----
+
+Now first we need to install php --> but in this case we have it already installed. 
+
+	sudo yum install php-gd
+
+Restart apache
+
+	sudo service httpd restart
+
+Download WordPress
+	
+	cd ~
+	wget http://wordpress.org/latest.tar.gz
+
+> Note: if wget not installed
+
+> sudo yum install wget
+
+Extract the file 
+
+	tar xzvf latest.tar.gz
+
+Transfer the unpacked files to Apache's document root
+
+	sudo rsync -avP ~/wordpress/ /var/www/html/
+
+Add folder to store uploaded files
+
+	mkdir /var/www/html/wp-content/uploads
+
+Assign the correct ownership and permissions to the files and folder
+
+	sudo chown -R apache:apache /var/www/html/*
+
+---
+
+Move to apache root directory
+
+	cd /var/www/html
+
+
+Copy the sample to the default configuration file location
+
+	cp wp-config-sample.php wp-config.php
+
+
+open the file in a texteditor
+
+	nano wp-config.php
+
+> Note: if nano isn't installed
+> 
+> sudo yum install nano
+
+
+Fill in the parameters 
+
+    // ** MySQL settings - You can get this info from your web host ** //
+    /** The name of the database for WordPress */
+    define('DB_NAME', 'wordpress');
+    
+    /** MySQL database username */
+    define('DB_USER', 'wordpressuser');
+    
+    /** MySQL database password */
+    define('DB_PASSWORD', 'password');
+
+-----
+
+Go in your browser to your IP-address
+
+server_domain_name_or_IP = ip-address
+
+	http://server_domain_name_or_IP
+
+Fill in what WordPress wants
+
+
 -----
 Source: [GitHub Azure Linux VM Image Capturing](https://github.com/Azure/azure-content/blob/master/articles/virtual-machines/virtual-machines-linux-capture-image-resource-manager.md)
+
+Source: [Installation WordPress](https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-on-centos-7 "Installation WordPress")
 
 Authors: Robby en Siebert
 
