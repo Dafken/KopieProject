@@ -258,8 +258,6 @@ If you want to use this script as a batch file, open it up in notepad and save a
 
 
 -----------
+Source: [GitHub Azure Linux VM Image Capturing](https://github.com/Azure/azure-content/blob/master/articles/virtual-machines/virtual-machines-linux-capture-image-resource-manager.md)
 
 Auteurs: Mike Lobbezoo en Davy De Cock
-
-
-
