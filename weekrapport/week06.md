@@ -67,6 +67,7 @@
 * Opdracht 3: WISAStack installeren + configureren private server 
 * Opdracht 3: WISAStack vagrant
 * Opdracht 4: Starten
+
 ### Mike Lobbezoo
 * Opdracht 3: WISAStack installeren + configureren private server 
 * Opdracht 3: WISAStack vagrant
