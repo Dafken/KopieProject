@@ -98,6 +98,7 @@ _______________
 Sources: 
 
 Vagrant: Up and Running -- Mitchell Hashimoto
+
 [Creating a Custom Box from Scratch](http://www.skoblenick.com/vagrant/creating-a-custom-box-from-scratch/) -- Ryan Skoblenick
 
 Auteurs: Mike Lobbezoo en Davy De Cock
