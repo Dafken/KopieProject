@@ -8,7 +8,7 @@
 | Siebert Timmermans |       |           |
 | Robby Den Haese |       |           |
 | Davy De Cock |       |           |
-| Mike Lobberzoo |       |           |
+| Mike Lobbezoo |       |           |
 
 ## Wat heb je deze week gerealiseerd?
 
@@ -35,13 +35,25 @@
 
 ### Davy De Cock
 
-* ...
+* Opdracht 3: Script JavaEEStack Azure
+* Opdracht 3: Opdracht 3: Private server opzetten + configureren
+* Opdracht 3: Private Server LAMPStack installeren + configureren
+* Opdracht 3: Private server JavaEEStack installeren + configureren
+* Opdracht 3: Vagrant .box files maken (JavaEEStack, LAMPStack)
+* Cheatsheet Vagrant + testplan 
+
 
 [Afbeelding individueel rapport tijdregistratie]
 
-### Mike Lobberzoo
+### Mike Lobbezoo
 
-* ...
+* Opdracht 3: Script JavaEEStack Azure
+* Opdracht 3: Private server opzetten + configureren
+* Opdracht 3: Private Server LAMPStack installeren + configureren
+* Opdracht 3: Private server JavaEEStack installeren + configureren
+* Opdracht 3: Vagrant .box files maken (JavaEEStack, LAMPStack)
+* Cheatsheet Vagrant + testplan
+
 
 [Afbeelding individueel rapport tijdregistratie]
 
@@ -51,12 +63,18 @@
 ### Siebert Timmermans
 ### Robby Den Haese 
 ### Davy De Cock
-### Mike Lobberzoo
+
+* Opdracht 3: WISAStack installeren + configureren private server 
+* Opdracht 3: WISAStack vagrant
+* Opdracht 4: Starten
+### Mike Lobbezoo
+* Opdracht 3: WISAStack installeren + configureren private server 
+* Opdracht 3: WISAStack vagrant
+* Opdracht 4: Starten
 
 ## Waar hebben jullie nog problemen mee?
 
-* ...
-* ...
+* Planning
 
 ## Feedback technisch luik
 
@@ -65,7 +83,7 @@
 ### Siebert Timmermans
 ### Robby Den Haese 
 ### Davy De Cock
-### Mike Lobberzoo
+### Mike Lobbezoo
 
 ## Feedback analyseluik
 
@@ -74,5 +92,4 @@
 ### Siebert Timmermans
 ### Robby Den Haese 
 ### Davy De Cock
-### Mike Lobberzoo
-
+### Mike Lobbezoo
