@@ -42,8 +42,7 @@
 * Opdracht 3: Vagrant .box files maken (JavaEEStack, LAMPStack)
 * Cheatsheet Vagrant + testplan 
 
-
-[Afbeelding individueel rapport tijdregistratie]
+![Toggl Davy](http://oi63.tinypic.com/2mhvh9t.jpg "Toggl Davy")
 
 ### Mike Lobbezoo
 
@@ -54,8 +53,7 @@
 * Opdracht 3: Vagrant .box files maken (JavaEEStack, LAMPStack)
 * Cheatsheet Vagrant + testplan
 
-
-[Afbeelding individueel rapport tijdregistratie]
+![Toggl Mike](http://oi67.tinypic.com/28u1geu.jpg "Toggl Mike")
 
 ## Wat plan je volgende week te doen?
 
