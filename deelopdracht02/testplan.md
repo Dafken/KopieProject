@@ -64,35 +64,33 @@ Auteurs testplan: Robby Den Haese, Siebert Timmermans
 ### Testplan JavaEEStack
 
 
-- Is Tomcat8 geïnstalleerd en kan je de status controleren? Ja
+- Is Tomcat8 geïnstalleerd en kan je de status controleren? 
 
-- Is MariaDB geïnstalleerd en kan je de status controleren? Ja
+- Is MariaDB geïnstalleerd en kan je de status controleren? 
 
-- Is Java OpenJDK geïnstalleerd en kan je de status controleren? Ja
+- Is Java OpenJDK geïnstalleerd en kan je de status controleren? 
 
-- Heb je de VM voorbereid om image van te nemen? Ja
+- Heb je de VM voorbereid om image van te nemen? 
  
-- Heb je Azure CLI geïnstalleerd? Ja
+- Heb je Azure CLI geïnstalleerd? 
 
-- Heb je image genomen? Ja
+- Heb je image genomen? 
 
-- Heb je resourcegroup aangemaakt voor het nieuwe netwerk? Ja
+- Heb je resourcegroup aangemaakt voor het nieuwe netwerk? 
 
-- Heb je de nieuwe VM aangemaakt met nieuwe user en pw? Ja
+- Heb je de nieuwe VM aangemaakt met nieuwe user en pw? 
 
-- Kan je connecteren met de nieuwe VM door gebruik te maken van het ip-adres en een SSH-client zoals bv. mobaXterm? Ja  
+- Kan je connecteren met de nieuwe VM door gebruik te maken van het ip-adres en een SSH-client zoals bv. mobaXterm?  
 
 ### Testplan JavaEEStack script
 
--  Heb je CLI? Ja
--  Ingelogd op Azure? Ja
--  Werkt het script? Ja
--  Kan je connecteren aan de VM? Ja
+-  Heb je CLI? 
+-  Ingelogd op Azure? 
+-  Werkt het script? 
+-  Kan je connecteren aan de VM?
 
 
 
 ----------
 
-Uitvoerder(s) test: Davy De Cock en Mike Lobbezoo
-
-Uitgevoerd op: 06/03/2016
+Auteurs testplan: Davy De Cock en Mike Lobbezoo
