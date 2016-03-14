@@ -20,8 +20,7 @@
 
 ![](https://i.gyazo.com/afab2280a785e1145902556b8105ed98.png)
 
-
-![](https://i.gyazo.com/8e1f3d20c8d70b46baa01f168fa2906a.png)
+![](https://i.gyazo.com/93a3f40a5d9b6be6f90ab6fddb5cc91b.png)
 
 ### Siebert Timmermans
 
@@ -31,7 +30,7 @@
 ### Robby Den Haese
 
 
-![](https://i.gyazo.com/b702968076b7f0a6f6eef4547ff48fa6.png)
+![](https://i.gyazo.com/c12608e137efe91b75afbb0a7558452d.png)
 
 
 ### Davy De Cock
