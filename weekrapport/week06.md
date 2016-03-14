@@ -26,7 +26,7 @@
 ### Siebert Timmermans
 
 
-![](https://i.gyazo.com/aa5cead08227d663ced3afe04b7d9a8e.png)
+![](https://i.gyazo.com/4bab7d61b158b0896c8bb0b620fcc02c.png)
 
 ### Robby Den Haese
 
