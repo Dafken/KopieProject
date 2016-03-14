@@ -109,15 +109,14 @@
 ### Algemeen
 * Weekrapport goed ingevuld en tijdsregistratie correct genoteerd.
 * Cisco Packet Tracer oefening correct geïmplementeerd.
-* Cisco cheat sheet goed uitgewerkt.
-* Cisco Labo 1 implementatie, testplan en rapport uitgewerkt. Test plan mag wel geen implementatie stappen plan zijn.
+* Cisco cheat sheet uitgewerkt. Opmerking: dit zijn geen cheat sheets. Voorbeeld: http://packetlife.net/media/library/2/EIGRP.pdf
+* Cisco Labo 1 implementatie, testplan en rapport uitgewerkt. 
 * Cisco Labo 2 implementatie, testplan en rapport uitgewerkt.
 * Cisco Labo 3 implementatie, testplan en rapport uitgewerkt.
 * Cisco Labo 4 implementatie, testplan en rapport uitgewerkt.
 * Lastenboek is uitgewerkt voor Cisco deelopdracht maar mag iets specifieker. Bvb Deliverables is niet volledig. Hiertoe behoren de deeltaken, testplannen en raporten.
-* Cheatsheet Lamp stack goed uitgewerkt.
-* Windows Azure Lamp stack goed uitgewerkt. Demo getoond. Powershell script geschreven voor automatisatie.
-* Java Applicatieserver Tomcat goed uitgewerkt. Demo getoond. Backup oplossing uitgewerkt
+* Windows Azure Lamp stack goed uitgewerkt. Test plan en rapport geschreven. Zet een demo applicatie met Db in deze omgeving.
+* Java Applicatieserver Tomcat goed uitgewerkt. Schrijf tes tplan en rapport. Zet een demo applicatie met Db in deze omgeving.
 
 
 ### Siebert Timmermans
