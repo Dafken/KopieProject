@@ -73,11 +73,13 @@
 
 * Opdracht 3: WISAStack installeren + configureren private server 
 * Opdracht 3: WISAStack vagrant
+* Opdracht 3: .NET applicatie draaien op WISA stack
 * Opdracht 4: Starten
 
 ### Mike Lobbezoo
 * Opdracht 3: WISAStack installeren + configureren private server 
 * Opdracht 3: WISAStack vagrant
+* Opdracht 3: .NET applicatie draaien op WISA stack
 * Opdracht 4: Starten
 
 ## Waar hebben jullie nog problemen mee?
