@@ -38,7 +38,7 @@ Ook belangrijk om op te letten bij spelling bij aanmaak resourcegroup(netwerk) e
 
 - Kan je wordpress deployen op de LAMP stack? Ja
 
-![](https://i.gyazo.com/b02b2559d03664019b09e5e828e696f9.png)
+![](https://i.gyazo.com/5308542d55ea9a3c22b5e13255f1c1dd.png)
 
 ----------
 
@@ -58,7 +58,7 @@ Uitgevoerd op: 11/03/2016
 ![](https://i.gyazo.com/3384a76b8c4e3ccf2469bedb0226f906.png)
 ![](https://i.gyazo.com/4bd8b61d38c02b6a71c879972eba5b24.png)
 
-![](https://i.gyazo.com/b02b2559d03664019b09e5e828e696f9.png)
+![](https://i.gyazo.com/5308542d55ea9a3c22b5e13255f1c1dd.png)
 
 ----------
 
