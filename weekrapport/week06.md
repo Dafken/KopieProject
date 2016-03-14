@@ -21,7 +21,7 @@
 ![](https://i.gyazo.com/afab2280a785e1145902556b8105ed98.png)
 
 
-[Afbeelding teamoverzicht tijdregistratie onderverdeeld per deelopdracht]
+![](https://i.gyazo.com/8e1f3d20c8d70b46baa01f168fa2906a.png)
 
 ### Siebert Timmermans
 
@@ -30,9 +30,9 @@
 
 ### Robby Den Haese
 
-* ...
 
-[Afbeelding individueel rapport tijdregistratie]
+![](https://i.gyazo.com/b702968076b7f0a6f6eef4547ff48fa6.png)
+
 
 ### Davy De Cock
 
@@ -64,13 +64,14 @@
 * Opdracht 3: WISAStack vagrant
 * Opdracht 3: .NET applicatie draaien op WISA stack
 * Opdracht 4: Starten
+
 ### Robby Den Haese 
 * Opdracht 3: WISAStack installeren + configureren private server 
 * Opdracht 3: WISAStack vagrant
 * Opdracht 3: .NET applicatie draaien op WISA stack
 * Opdracht 4: Starten
-### Davy De Cock
 
+### Davy De Cock
 * Opdracht 3: WISAStack installeren + configureren private server 
 * Opdracht 3: WISAStack vagrant
 * Opdracht 3: .NET applicatie draaien op WISA stack
