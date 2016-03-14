@@ -66,6 +66,22 @@ Uitvoerder(s) test: Robby en Siebert
 
 Uitgevoerd op: 04/03/2016
 
+## Testplan WISA stack
+
+- Kan je connecteren met de server? Ja
+- Is IIS geinstalleerd? Ja
+- Is MySQL of SQLServer geinstalleerd (of zit het al bij je OS)? Ja
+- Is ASP.net geinstalleerd? Ja
+
+![](https://i.gyazo.com/34cd3e21fc018e18c09ee741ddcb34b8.png)
+
+- Kan je bij localhost het IIS startscherm zien? Ja
+
+![](https://i.gyazo.com/c9639649fc6d0eb9ff25618660b3f972.png)
+----------
+
+Auteurs testplan: Robby Den Haese, Siebert Timmermans
+
 ## Testplan WISA stack script
 - Heb je Azure CLI voor PowerShell? Ja
 - Ben je ingelogd op Azure via je PowerShell? Ja
