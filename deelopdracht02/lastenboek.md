@@ -1,22 +1,22 @@
 # Lastenboek Taak 2: (Servers aanmaken via scripts)
 
 ### Uitvoering ###
-**Robby Den Haese** - opzetten Azure server LAMP en WISA - research Azure Linux image capturing - Image van stack nemen en reproduceren + cheat sheet van de manier van werken - WISA + script + cheat sheet - documenteren weekrapport en opdracht 3 - Wordpress op LAMP stack zetten
+**Robby Den Haese** - opzetten Azure server LAMP en WISA - research Azure Linux image capturing - Image van stack nemen en reproduceren + cheat sheet van de manier van werken - WISA + script + cheat sheet - documenteren weekrapport en opdracht 3 - Wordpress op LAMP stack zetten, lastenboek aanvullen
 
-**Mike Lobbezoo** - opzetten JavaEEStack + image creatie van de vhd's in Azure Server. Reproduceren van vhd door middel van de image + controle van geïnstalleerde software op de backup vhd. Bekijken van scripting + testen in de azure server "omgeving". Documenteren opdracht 3.
+**Mike Lobbezoo** - opzetten JavaEEStack + image creatie van de vhd's in Azure Server. Reproduceren van vhd door middel van de image + controle van geïnstalleerde software op de backup vhd. Bekijken van scripting + testen in de azure server "omgeving". Documenteren opdracht 3. LAMP en JavaEE in private cloud + testplan en rapport hiervan
 
-**Davy De Cock** - opzetten JavaEEStack + image creatie van de vhd's in Azure Server. Reproduceren van vhd door middel van de image + controle van geïnstalleerde software op de backup vhd. Bekijken van scripting + testen in de azure server "omgeving". Documenteren opdracht 3.
+**Davy De Cock** - opzetten JavaEEStack + image creatie van de vhd's in Azure Server. Reproduceren van vhd door middel van de image + controle van geïnstalleerde software op de backup vhd. Bekijken van scripting + testen in de azure server "omgeving". Documenteren opdracht 3. LAMP en JavaEE in private cloud + testplan en rapport hiervan
 
-**Siebert Timmermans** - opzetten Azure server LAMP en WISA - research Azure Linux image capturing - Image van stack nemen en reproduceren + cheat sheet van de manier van werken - WISA + script + Cheat sheet - documenteren weekrapport en opdracht 3 - Wordpress op LAMP stack zetten
+**Siebert Timmermans** - opzetten Azure server LAMP en WISA - research Azure Linux image capturing - Image van stack nemen en reproduceren + cheat sheet van de manier van werken - WISA + script + Cheat sheet - documenteren weekrapport en opdracht 3 - Wordpress op LAMP stack zetten, lastenboek aanvullen
 
 ### Testing ###
-Robby Den Haese - LAMP stack opzetten, scripting hiervan, WISA stack (public cloud versie) opzetten, Scripting hiervan
+Robby Den Haese - LAMP stack opzetten, scripting hiervan, WISA stack (public cloud versie) opzetten, Scripting hiervan, wordpress op LAMP, Azure servers
 
-Mike Lobbezoo - JavaEE stack opzetten, scripting hiervan
+Mike Lobbezoo - JavaEE stack opzetten, scripting hiervan, JavaEE stack en LAMP stack private server 
 
-Davy De Cock - JavaEE stack opzetten, scripting hiervan
+Davy De Cock - JavaEE stack opzetten, scripting hiervan, JavaEE stack en LAMP stack private server 
 
-Siebert Timmermans - LAMP stack opzetten, scripting hiervan, WISA stack (public cloud versie) opzetten, Scripting hiervan
+Siebert Timmermans - LAMP stack opzetten, scripting hiervan, WISA stack (public cloud versie) opzetten, Scripting hiervan, wordpress op LAMP, Azure servers
 
 ## Deliverables
 
@@ -37,10 +37,15 @@ WISA stack, JavaEE stack en LAMP stack voor zowel public(Azure) als private(Vagr
 - JavaEEStack server --> image capturen
 - Cheatsheet aanmaken van JavaEEStack
 - WISA script 
+- Testplan aanvullen
 - Testrapport aanvullen
+- Lastenboek aanvullen
 - WISA Stack aanmaken (SQLserver en ASP.net)
 - WISA Stack deploybaar maken via script
 - Wordpress op de Apache van LAMP stack draaien
+- private server LAMP stack + testplan en rapport
+- private server JavaEE stack + testplan en rapport
+- private server WISA stack + testplan en rapport
 
 
 ## Tijdbesteding

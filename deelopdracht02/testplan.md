@@ -1,10 +1,12 @@
 ## Testplan Azureservers
 
-Is de CentOS server aangemaakt op Azure cloud?
+- Is de CentOS server aangemaakt op Azure cloud?
 
-Is de Windows 2012 server aangemaakt op Azure cloud?
+- Is de Windows 2012 server aangemaakt op Azure cloud?
+ 
+- Kan ik connecteren van op elke pc aan de CentOS en Windows 2012 server?
 
-Kan ik connecteren van op elke pc aan de CentOS en Windows 2012 server?
+Auteurs testplan: Robby Den Haese, Siebert Timmermans
 
 ### Testplan LAMPstack
 
@@ -28,6 +30,8 @@ Kan ik connecteren van op elke pc aan de CentOS en Windows 2012 server?
 
 - Kan je wordpress deployen op de LAMP stack?
 
+Auteurs testplan: Robby Den Haese, Siebert Timmermans
+
 ### Testplan LAMPstack script
 
  -  Heb je CLI?
@@ -35,6 +39,8 @@ Kan ik connecteren van op elke pc aan de CentOS en Windows 2012 server?
  -  Werkt het script?
  -  Kan je connecteren aan de VM?
  -  Kan je wordpress deployen op de LAMP stack?
+
+Auteurs testplan: Robby Den Haese, Siebert Timmermans
  
 ### Testplan WISA stack
 
@@ -43,6 +49,9 @@ Kan ik connecteren van op elke pc aan de CentOS en Windows 2012 server?
 - Is MySQL of SQLServer geinstalleerd (of zit het al bij je OS)?
 - Is ASP.net geinstalleerd?
 - Kan je bij localhost het IIS startscherm zien?
+
+
+----------
 
 Auteurs testplan: Robby Den Haese, Siebert Timmermans
 
@@ -57,6 +66,9 @@ Auteurs testplan: Robby Den Haese, Siebert Timmermans
 - Is IIS geinstalleerd?
 - Is ASP.net geinstalleerd?
 - Kan je bij localhost het IIS startscherm zien?
+
+
+----------
 
 Auteurs testplan: Robby Den Haese, Siebert Timmermans
 
@@ -82,6 +94,10 @@ Auteurs testplan: Robby Den Haese, Siebert Timmermans
 
 - Kan je connecteren met de nieuwe VM door gebruik te maken van het ip-adres en een SSH-client zoals bv. mobaXterm?  
 
+----------
+
+Auteurs testplan: Davy De Cock en Mike Lobbezoo
+
 ### Testplan JavaEEStack script
 
 -  Heb je CLI? 
@@ -94,3 +110,6 @@ Auteurs testplan: Robby Den Haese, Siebert Timmermans
 ----------
 
 Auteurs testplan: Davy De Cock en Mike Lobbezoo
+
+
+#TO DO - Java EE, LAMP en WISA stack private testplannen

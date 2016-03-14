@@ -11,21 +11,22 @@
 | Mike Lobbezoo |       |           |
 
 ## Wat heb je deze week gerealiseerd?
+- WISA en LAMP script is afgewerkt met cheat sheets, testplannen en rapporten (public cloud)
+- Wordpress is op LAMP stack geplaatst en gecontroleerd
+- LAMP en JAVA stack private servers gemaakt met cheat sheet
+- Verdere documentatie van deze week (cheat sheets, testplannen, testrapporten, lastenboek en dit weekverslag)
 
 ### Algemeen
 
-[Afbeelding huidige toestand Kanban-bord(en) invoegen]
+![](https://i.gyazo.com/afab2280a785e1145902556b8105ed98.png)
 
-* ...
-* ...
 
 [Afbeelding teamoverzicht tijdregistratie onderverdeeld per deelopdracht]
 
 ### Siebert Timmermans
 
-* ...
 
-[Afbeelding individueel rapport tijdregistratie]
+![](https://i.gyazo.com/aa5cead08227d663ced3afe04b7d9a8e.png)
 
 ### Robby Den Haese
 
@@ -59,7 +60,15 @@
 
 ### Algemeen
 ### Siebert Timmermans
+* Opdracht 3: WISAStack installeren + configureren private server 
+* Opdracht 3: WISAStack vagrant
+* Opdracht 3: .NET applicatie draaien op WISA stack
+* Opdracht 4: Starten
 ### Robby Den Haese 
+* Opdracht 3: WISAStack installeren + configureren private server 
+* Opdracht 3: WISAStack vagrant
+* Opdracht 3: .NET applicatie draaien op WISA stack
+* Opdracht 4: Starten
 ### Davy De Cock
 
 * Opdracht 3: WISAStack installeren + configureren private server 
@@ -74,6 +83,8 @@
 ## Waar hebben jullie nog problemen mee?
 
 * Planning
+* Subcription management bij Azure (op de account met meeste servers op zitten we reeds op limiet, ook al hebben we ze afgesloten wanneer niet in gebruik)
+* Wordpress bleek enkel in HTML versie te werken bij IP-adres in browser
 
 ## Feedback technisch luik
 

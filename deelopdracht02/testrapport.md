@@ -1,3 +1,17 @@
+## Testplan Azureservers
+
+- Is de CentOS server aangemaakt op Azure cloud? Ja
+
+- Is de Windows 2012 server aangemaakt op Azure cloud? Ja
+
+- Kan ik connecteren van op elke pc aan de CentOS en Windows 2012 server? Ja
+
+----------
+
+Uitvoerder(s) test: Robby en Siebert
+
+Uitgevoerd op: 04/03/2016
+
 ## Testplan LAMPstack
 
 Testplan werkte volledig, enkel probleem met connecteren aan nieuwe VM aangezien de originele VM (image) met SSH ingesteld was met keys. 
@@ -25,6 +39,12 @@ Ook belangrijk om op te letten bij spelling bij aanmaak resourcegroup(netwerk) e
 - Kan je wordpress deployen op de LAMP stack? Ja
 
 ![](https://i.gyazo.com/b02b2559d03664019b09e5e828e696f9.png)
+
+----------
+
+Uitvoerder(s) test: Robby en Siebert
+
+Uitgevoerd op: 11/03/2016
 
 ## Testplan LAMPstack script
 
@@ -113,6 +133,8 @@ Uitgevoerd op: 10/03/2016
 -  Kan je connecteren aan de VM? Ja
 
 
+
+#TO DO - Java EE, LAMP en WISA private server, authors en uitvoering bijzetten bij Java EE
 
 ----------
 
