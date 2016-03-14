@@ -11,7 +11,7 @@ Creating Apache
 
 	sudo yum clean all
 	sudo yum -y update
-	sudo yum -y insall httpd 
+	sudo yum -y install httpd 
 
 Er is geen firewall precies dus hier geen rekening mee houden
 
