@@ -102,6 +102,11 @@
 
 ### Algemeen
 
+* kanbanbord ziet er goed uit (tijdinschatting, gepresteerde uren en verantwoordelijken zijn aanwezig)
+* retrospectieve:
+  * elkaar aanvullen, doelbewust en efficiënt
+  * verbeterpunt: testen (gedetailleerder effectieve testen en resultaten opstellen in testrapport)
+
 ### Siebert Timmermans
 ### Robby Den Haese 
 ### Davy De Cock
