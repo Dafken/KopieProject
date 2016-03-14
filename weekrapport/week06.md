@@ -64,6 +64,8 @@
 * Opdracht 3: WISAStack vagrant
 * Opdracht 3: .NET applicatie draaien op WISA stack
 * Opdracht 4: Starten
+
+
 ### Robby Den Haese 
 * Opdracht 3: WISAStack installeren + configureren private server 
 * Opdracht 3: WISAStack vagrant
