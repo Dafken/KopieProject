@@ -54,6 +54,7 @@
 - Applicatie draaien op WISA 
 - Opdracht 1 verbeteren waar nodig 
 - Opdracht 1 beginnen uitwerken 
+- heruitwerken testrapporten
 
 ### Algemeen
 ### Siebert Timmermans
@@ -63,8 +64,8 @@
 
 ## Waar hebben jullie nog problemen mee?
 
-* ...
-* ...
+* Wisa Stack private server
+* applicatie runnen op Wisa Stack
 
 ## Feedback technisch luik
 
