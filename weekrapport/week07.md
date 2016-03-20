@@ -12,6 +12,9 @@
 
 ## Wat heb je deze week gerealiseerd?
 
+- Idee uitwerken voor opdracht 1
+- Presentatie voorbereiden voor maandag 21/03
+
 ### Algemeen
 
 [Afbeelding huidige toestand Kanban-bord(en) invoegen]
@@ -46,6 +49,11 @@
 [Afbeelding individueel rapport tijdregistratie]
 
 ## Wat plan je volgende week te doen?
+
+- WISA stack verder afwerken 
+- Applicatie draaien op WISA 
+- Opdracht 1 verbeteren waar nodig 
+- Opdracht 1 beginnen uitwerken 
 
 ### Algemeen
 ### Siebert Timmermans
