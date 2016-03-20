@@ -17,12 +17,9 @@
 
 ### Algemeen
 
-[Afbeelding huidige toestand Kanban-bord(en) invoegen]
+![Teamoverzicht week07](https://i.gyazo.com/441e080dcd409c0e7fc596926215101f.png "Teamoverzicht")
 
-* ...
-* ...
-
-[Afbeelding teamoverzicht tijdregistratie onderverdeeld per deelopdracht]
+![Teamoverzicht week07](https://i.gyazo.com/8aa0417d3e61ec152c7339ead74343d8.png "Teamoverzicht")
 
 ### Siebert Timmermans
 
