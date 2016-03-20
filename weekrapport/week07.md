@@ -26,7 +26,7 @@
 
 ### Siebert Timmermans
 
-* ...
+![Tijd Siebert week 07](https://i.gyazo.com/fe6a0ef392e37c0082128f471653e084.png "Tijd Siebert week 07")
 
 [Afbeelding individueel rapport tijdregistratie]
 
