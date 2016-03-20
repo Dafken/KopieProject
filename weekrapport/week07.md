@@ -42,11 +42,9 @@
 
 [Afbeelding individueel rapport tijdregistratie]
 
-### Mike Lobberzoo
+### Mike Lobbezoo
 
-* ...
-
-[Afbeelding individueel rapport tijdregistratie]
+![Tijd Mike week 07](http://i66.tinypic.com/2uh0bb8.jpg "Tijd Mike week 07")
 
 ## Wat plan je volgende week te doen?
 
