@@ -32,7 +32,7 @@
 
 ### Robby Den Haese
 
-* ...
+![Tijd Robby week 07](https://i.gyazo.com/298dd263fba7848b098e750819d5e244.png "Tijd Robby week 07")
 
 [Afbeelding individueel rapport tijdregistratie]
 
