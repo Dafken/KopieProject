@@ -28,19 +28,16 @@
 
 ![Tijd Siebert week 07](https://i.gyazo.com/fe6a0ef392e37c0082128f471653e084.png "Tijd Siebert week 07")
 
-[Afbeelding individueel rapport tijdregistratie]
 
 ### Robby Den Haese
 
 ![Tijd Robby week 07](https://i.gyazo.com/298dd263fba7848b098e750819d5e244.png "Tijd Robby week 07")
 
-[Afbeelding individueel rapport tijdregistratie]
 
 ### Davy De Cock
 
-* ...
+![Tijd Davy week 07](http://oi63.tinypic.com/2w5imiw.jpg "Tijd Davy week 07")
 
-[Afbeelding individueel rapport tijdregistratie]
 
 ### Mike Lobbezoo
 
