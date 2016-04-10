@@ -12,9 +12,9 @@
 ### Testing ###
 Robby Den Haese - LAMP stack opzetten, scripting hiervan, WISA stack (public cloud versie) opzetten, Scripting hiervan, wordpress op LAMP, Azure servers, .NET applicatie met database op WISA stack laten draaien, aanpassen eerdere rapporten
 
-Mike Lobbezoo - JavaEE stack opzetten, scripting hiervan, JavaEE stack en LAMP stack private server 
+Mike Lobbezoo - JavaEE stack opzetten, scripting hiervan, JavaEE stack en LAMP stack private server, .NET applicatie met database op WISA stack laten draaien
 
-Davy De Cock - JavaEE stack opzetten, scripting hiervan, JavaEE stack en LAMP stack private server 
+Davy De Cock - JavaEE stack opzetten, scripting hiervan, JavaEE stack en LAMP stack private server, .NET applicatie met database op WISA stack laten draaien
 
 Siebert Timmermans - LAMP stack opzetten, scripting hiervan, WISA stack (public cloud versie) opzetten, Scripting hiervan, wordpress op LAMP, Azure servers, .NET applicatie met database op WISA stack laten draaien, aanpassen eerdere rapporten
 
