@@ -486,34 +486,147 @@ Uitgevoerd op: 10/03/2016
 ### Testplan JavaEEStack
 
 
-- Is Tomcat8 geïnstalleerd en kan je de status controleren? Ja
+- Is Tomcat8 geïnstalleerd en kan je de status controleren?
 
-- Is MariaDB geïnstalleerd en kan je de status controleren? Ja
+		yum install wget
+		cd /opt
+		wget http://www-eu.apache.org/dist/tomcat/tomcat-8/v8.0.32/bin/apache-tomcat-8.0.32.tar.gz
+		tar xzf apache-tomcat-8.0.32.tar.gz
+		echo "export CATALINA_HOME=\"/opt/apache-tomcat-8.0.32\"" >> ~/.bashrc
+		source ~/.bashrc
+		cd /opt/apache-tomcat-8.0.32
+		./bin/startup.sh
 
-- Is Java OpenJDK geïnstalleerd en kan je de status controleren? Ja
+		tail -f logs/catalina.out
 
-- Heb je de VM voorbereid om image van te nemen? Ja
- 
-- Heb je Azure CLI geïnstalleerd? Ja
+Iets als dit wordt weegegeven:
 
-- Heb je image genomen? Ja
+![](https://i.gyazo.com/85057b691b25ddcd422bf13f4ad632d5.png)
 
-- Heb je resourcegroup aangemaakt voor het nieuwe netwerk? Ja
 
-- Heb je de nieuwe VM aangemaakt met nieuwe user en pw? Ja
+- Is MariaDB geïnstalleerd en kan je de status controleren? 
 
-- Kan je connecteren met de nieuwe VM door gebruik te maken van het ip-adres en een SSH-client zoals bv. mobaXterm? Ja  
+    	yum update -y
+    	yum install mariadb-server
+    
+    	systemctl start mariadb.service
+    	systemctl enable mariadb.service
+    
+    	systemctl is-active mariadb.service
+
+		mysql -u root -p
+
+Iets als dit wordt dan weergegeven
+
+![](https://i.gyazo.com/1040e936fd14bc4824b13146c6e1cdf7.png)
+
+- Is Java OpenJDK geïnstalleerd en kan je de status controleren?
+
+		yum install java-1.8.0
+		java -version
+
+Iets als dit wordt weergegeven
+
+![](https://i.gyazo.com/0e63a379a88b078a78583fbfdb0ef4c4.png)
+
+- Heb je de VM voorbereid om image van te nemen?
+
+		sudo waagent -deprovision -force
+
+Hierna via Azure CLI
+
+    azure config mode arm
+    azure vm stop –g <your-resource-group-name> -n <your-virtual-machine-name>
+    azure vm generalize –g <your-resource-group-name> -n <your-virtual-machine-name>
+
+- Heb je Azure CLI geïnstalleerd? 
+
+*Vanaf hier is Azure CLI nodig, dit is te downloaden op [AzureCLIGitHub](https://github.com/Azure/azure-content/blob/master/articles/xplat-cli-install.md "Download Azure CLI")*
+
+*Herstart je computer en open de command prompt. Login op je Azure. Instructies [hier](https://github.com/Azure/azure-content/blob/master/articles/xplat-cli-connect.md "connect Azure in CLI")*
+
+Als Azure CLI correct is geïnstalleerd kan je door
+
+    azure -help
+
+controleren of het werkt.
+
+![](https://i.gyazo.com/a35f7a048bb85e5a1ee5c7384f31e1d1.png)
+
+- Heb je image genomen?
+
+		azure vm capture –g <your-resource-group-name> -n <your-virtual-machine-name> -p <your-vhd-name-prefix> -t <your-template-file-name.json>
+
+- Heb je resourcegroup aangemaakt voor het nieuwe netwerk?
+
+		centralus = westeurope indien je in europa zit
+
+		azure group create <your-new-resource-group-name> -l "centralus"
+    
+	     azure network vnet create <your-new-resource-group-name> <your-vnet-name> -l "centralus"
+    
+	    azure network vnet subnet create <your-new-resource-group-name> <your-vnet-name> <your-subnet-name>
+    
+	    azure network public-ip create <your-new-resource-group-name> <your-ip-name> -l "centralus"
+    
+	    azure network nic create <your-new-resource-group-name> <your-nic-name> -k <your-subnetname> -m <your-vnet-name> -p <your-ip-name> -l "centralus"
+
+- Heb je de nieuwe VM aangemaakt met nieuwe user en pw?
+
+		azure group deployment create –g <your-new-resource-group-name> -n <your-new-deployment-name> -f <your-template-file-name.json>
+
+	    info:Executing command group deployment create
+	    info:Supply values for the following parameters
+	    vmName: mynewvm
+	    adminUserName: myadminuser
+	    adminPassword: ********
+	    networkInterfaceId: /subscriptions/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx/resource Groups/mynewrg/providers/Microsoft.Network/networkInterfaces/mynewnic
+
+Iets gelijkend aan dit wordt dan getoond
+
+    + Initializing template configurations and parameters
+    + Creating a deployment
+    info:Created template deployment "dlnewdeploy"
+    + Waiting for deployment to complete
+    data:DeploymentName : mynewdeploy
+    data:ResourceGroupName  : mynewrg
+    data:ProvisioningState  : Succeeded
+    data:Timestamp  : 2015-10-29T16:35:47.3419991Z
+    data:Mode   : Incremental
+    data:NameType  Value
+
+- Kan je connecteren aan de nieuwe VM mbv het ip adres en een connector zoals bv. mobaXterm? 
+
+![](https://i.gyazo.com/1e0b6992e4064aecbf99e6e392a0792e.png)  
 
 ### Testplan JavaEEStack script
 
--  Heb je CLI? Ja
--  Ingelogd op Azure? Ja
--  Werkt het script? Ja
--  Kan je connecteren aan de VM? Ja
+-  Heb je CLI? 
 
+*Vanaf hier is Azure CLI nodig, dit is te downloaden op [AzureCLIGitHub](https://github.com/Azure/azure-content/blob/master/articles/xplat-cli-install.md "Download Azure CLI")*
 
+*Herstart je computer en open de command prompt. Login op je Azure. Instructies [hier](https://github.com/Azure/azure-content/blob/master/articles/xplat-cli-connect.md "connect Azure in CLI")*
 
-#TO DO - Java EE, LAMP en WISA private server, authors en uitvoering bijzetten bij Java EE
+Als Azure CLI correct is geïnstalleerd kan je door
+
+    azure -help
+
+controleren of het werkt.
+
+-  Ingelogd op Azure? 
+
+![](https://i.gyazo.com/6ca21e0a9679c6504120b4a744c470c6.png)
+
+-  Werkt het script? Merk op dat dit hetzelfde is als LampStack, enkel veranderen we hier $jsonName = 'JavaEEStack.json'
+
+![](https://i.gyazo.com/30313df81af90df6a817b70aa2b56363.png)
+![](https://i.gyazo.com/3384a76b8c4e3ccf2469bedb0226f906.png)
+![](https://i.gyazo.com/4bd8b61d38c02b6a71c879972eba5b24.png)
+
+-  Kan je connecteren aan de VM? Via ssh verbinding naar het toegewezen adres van Azure, in dit geval 40.118.26.167
+
+![](https://i.gyazo.com/12fa079661d77b77f978f1875739a3af.png)
+
 
 ----------
 
