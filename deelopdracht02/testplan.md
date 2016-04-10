@@ -109,6 +109,3 @@ Auteurs testplan: Davy De Cock en Mike Lobbezoo
 ----------
 
 Auteurs testplan: Davy De Cock en Mike Lobbezoo
-
-
-#TO DO - Java EE, LAMP en WISA stack private testplannen
