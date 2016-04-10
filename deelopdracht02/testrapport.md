@@ -131,7 +131,9 @@ Iets gelijkend aan dit wordt dan getoond
     data:Mode   : Incremental
     data:NameType  Value
 
-- Kan je connecteren aan de nieuwe VM mbv het ip adres en een connector zoals bv. mobaXterm? Ja
+- Kan je connecteren aan de nieuwe VM mbv het ip adres en een connector zoals bv. mobaXterm? 
+
+![](https://i.gyazo.com/753c9b66f8a6fe28c73ef1d80ca9b58d.png)
 
 - Kan je wordpress deployen op de LAMP stack?
 
