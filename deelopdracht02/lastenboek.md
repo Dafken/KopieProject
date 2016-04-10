@@ -10,13 +10,13 @@
 **Siebert Timmermans** - opzetten Azure server LAMP en WISA - research Azure Linux image capturing - Image van stack nemen en reproduceren + cheat sheet van de manier van werken - WISA + script + Cheat sheet - documenteren weekrapport en opdracht 3 - Wordpress op LAMP stack zetten, lastenboek aanvullen
 
 ### Testing ###
-Robby Den Haese - LAMP stack opzetten, scripting hiervan, WISA stack (public cloud versie) opzetten, Scripting hiervan, wordpress op LAMP, Azure servers
+Robby Den Haese - LAMP stack opzetten, scripting hiervan, WISA stack (public cloud versie) opzetten, Scripting hiervan, wordpress op LAMP, Azure servers, .NET applicatie met database op WISA stack laten draaien, aanpassen eerdere rapporten
 
 Mike Lobbezoo - JavaEE stack opzetten, scripting hiervan, JavaEE stack en LAMP stack private server 
 
 Davy De Cock - JavaEE stack opzetten, scripting hiervan, JavaEE stack en LAMP stack private server 
 
-Siebert Timmermans - LAMP stack opzetten, scripting hiervan, WISA stack (public cloud versie) opzetten, Scripting hiervan, wordpress op LAMP, Azure servers
+Siebert Timmermans - LAMP stack opzetten, scripting hiervan, WISA stack (public cloud versie) opzetten, Scripting hiervan, wordpress op LAMP, Azure servers, .NET applicatie met database op WISA stack laten draaien, aanpassen eerdere rapporten
 
 ## Deliverables
 
@@ -46,6 +46,8 @@ WISA stack, JavaEE stack en LAMP stack voor zowel public(Azure) als private(Vagr
 - private server LAMP stack + testplan en rapport
 - private server JavaEE stack + testplan en rapport
 - private server WISA stack + testplan en rapport
+- .NET applicatie met database op WISA stack laten draaien
+- aanpassen eerdere rapporten
 
 
 ## Tijdbesteding

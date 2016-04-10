@@ -63,7 +63,6 @@ Auteurs testplan: Robby Den Haese, Siebert Timmermans
 - Zijn deze modules geimplementeerd?
 - Krijg je geen errors bij runnen van script?
 - Kan je connecteren met de server?
-- Is IIS geinstalleerd?
 - Is ASP.net geinstalleerd?
 - Kan je bij localhost het IIS startscherm zien?
 
