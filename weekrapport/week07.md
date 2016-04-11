@@ -71,7 +71,7 @@
 ## Feedback analyseluik
 
 ### Algemeen
-
+- Geen feedback door presentaties
 ### Siebert Timmermans
 ### Robby Den Haese 
 ### Davy De Cock
