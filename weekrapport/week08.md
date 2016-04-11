@@ -66,6 +66,8 @@ Applicatie deployen
 
 ### Algemeen
 
+- Deployment webapplicatie met database-backend op een WISA-server op Azure succesvol gedemonstreerd aan @bertvv.
+
 ### Siebert Timmermans
 ### Robby Den Haese 
 ### Davy De Cock
