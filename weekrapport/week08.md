@@ -5,10 +5,10 @@
 
 | Student  | Aanw. | Opmerking |
 | :---     | :---  | :---      |
-| Siebert Timmermans |   X    |           |
-| Robby Den Haese |   X    |           |
-| Davy De Cock |    X   |           |
-| Mike Lobberzoo |   X    |           |
+| Siebert Timmermans |       |           |
+| Robby Den Haese |       |           |
+| Davy De Cock |       |           |
+| Mike Lobberzoo |       |           |
 
 ## Wat heb je deze week gerealiseerd?
 
@@ -65,12 +65,6 @@ Applicatie deployen
 ## Feedback technisch luik
 
 ### Algemeen
-- Sheetsheats LAMP, WISA en JAVA duidelijk uitgewerkt.
-- WISA script en stack demo OK.
-- Momenteel bezig aan het deployen van een .NET applicatie zowel privaat als op Azure.
-- Gestart met opdracht 4.
-- Volgende week zeker starten met opdracht 1 en taken verdelen. (tip: start met Jenkins)
-- Algemeen zeer goed.
 
 ### Siebert Timmermans
 ### Robby Den Haese 
@@ -80,6 +74,9 @@ Applicatie deployen
 ## Feedback analyseluik
 
 ### Algemeen
+
+* interne kwaliteitscontrole volgbaar maken in Hueboard
+* testrapport ziet er veel beter uit
 
 ### Siebert Timmermans
 ### Robby Den Haese 
