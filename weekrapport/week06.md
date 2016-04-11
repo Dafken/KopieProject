@@ -91,7 +91,9 @@
 ## Feedback technisch luik
 
 ### Algemeen
-
+- Geen opmerkingen. Duidelijk kanbanbord, weekrapport en tijdsregistratie. 
+- Goede verdeling van de taken.
+- WISA stack installatie ok. 
 ### Siebert Timmermans
 ### Robby Den Haese 
 ### Davy De Cock
