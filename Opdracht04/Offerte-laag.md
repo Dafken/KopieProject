@@ -23,11 +23,15 @@ Om de prijs te drukken nemen we volgende maatregelen:
 
 1 Access point
 
+1 serverkast
+
 ### Patchkast ###
 
 1 switch (om naar vergaderzaal te trekken)
 
 1 router (geconnecteerd met de switches)
+
+1 serverkast
 
 ### Vergaderzaal
 
@@ -48,6 +52,8 @@ Om de prijs te drukken nemen we volgende maatregelen:
 2 Printers
 
 8 Ethernet kabels voor devices
+
+1 serverkast
 
 ### Cockpit / rustruimte ###
 
@@ -70,6 +76,7 @@ Access point ligt aan deur tussen gang van kantoor 1 en vergaderzaal naar gang v
 
 1 printer
 
+1 serverkast
 
 ### Bodyscan ###
 
@@ -92,8 +99,9 @@ Uit eigen onderzoek:
 - crossover is voor tussen devices en netwerkapperatuur
 - cat5/6 is voor een hoge snelheid rechtstreekse verbinding
 - Er valt op Switches te besparen door in ruimte dichtbij de patchkamer rechtstreeks te trekken
-- Aangezien 1 router, geen redundantie en dus ook meer kans op gegevensverlies en uitval internet en dus ook productiviteit
+- Aangezien 1 router, geen redundantie en dus ook meer kans op gegevensverlies en uitval internet en dus ook productiviteit. Als oplossing kunnen we de switches met elkaar verbinden, om toch nog aan een betere prijs meer zekerheid te bieden
 - Patchkast valt in cheap scope ook van prijs te beperken
+
 
 
 
@@ -109,6 +117,18 @@ POE switch: [Catalyst 2960](https://www.centralpoint.be/nl/netwerk-switches/cisc
 
 switch zonder POE: [sf500 48 poorten stackable](https://www.centralpoint.be/nl/netwerk-switches/cisco/sf500-48-k9-g5-switch-48-port-2-ge-sfp-stackable-managed-art-sf500-48-k9-g5-num-1061985/) -> tot 100 mbit/s - 505 euro
 
+Serverkast: [Wandkast 19 inch 12u met glazen voordeur](http://serverkastenwinkel.be/products/serverkasten1/782491.html) -> kleine en goedkope wandkast met ventilatie. Perfect voor deze opstelling.
+
 Wij kiezen voor www.centralpoint.be omwille van de goede klantendienst, eerlijke prijzen en de support. Het aanbod is ook aanzienlijk en bij problemen is er altijd gemakkelijk hulp te krijgen.
 
-*"Centralpoint.be bestaat sinds 2011. Sindsdien zijn we uitgegroeid tot de grootste en beste zakelijke ICT-leverancier van België met een jaaromzet van ruim 100 miljoen euro. Wij zien het als onze missie om aan al uw ICT-wensen tegemoet te komen. Dat betekent dat u werkelijk elk product bij ons kunt bestellen. En dan bedoelen we ook echt alles. Van populaire smartphones of tablets tot de betrouwbaarste servers of storage-oplossingen. En van eenvoudige netwerkkabels tot de nieuwste laptops of de kleinste printeraccessoires. Uiteraard altijd in de hoeveelheid die uw organisatie nodig heeft. En binnen de leveringstermijn die u wenst."*
+> *"Centralpoint.be bestaat sinds 2011. Sindsdien zijn we uitgegroeid tot de grootste en beste zakelijke ICT-leverancier van België met een jaaromzet van ruim 100 miljoen euro. Wij zien het als onze missie om aan al uw ICT-wensen tegemoet te komen. Dat betekent dat u werkelijk elk product bij ons kunt bestellen. En dan bedoelen we ook echt alles. Van populaire smartphones of tablets tot de betrouwbaarste servers of storage-oplossingen. En van eenvoudige netwerkkabels tot de nieuwste laptops of de kleinste printeraccessoires. Uiteraard altijd in de hoeveelheid die uw organisatie nodig heeft. En binnen de leveringstermijn die u wenst."*
+
+Voor de serverkasten kiezen we serverkastenwinkel.be. Zij zijn gespecialiseerd in serverkasten en bieden grote variateit en voordelige prijzen.
+
+> Bestellingen worden door DiscountOffice.be geleverd. Niet alleen profiteert u van een lage prijs, maar uw bestelling wordt ook snel geleverd met volledige garantie en retourmogelijkheden.
+> 
+> Bestellen is gemakkelijk: u kunt artikelen eenvoudig in de winkelwagen plaatsen. Voor de bestelling zelf wordt u doorgestuurd naar DiscountOffice.be, waar u eventueel nog overige artikelen kunt meebestellen.
+> 
+> DiscountOffice.be komt tegemoet aan alle mogelijke wensen van zakelijke klanten en biedt aantrekkelijke kortingen aan vaste klanten en grootafnemers.
+> 
+> DiscountOffice.nl en DiscountOffice.be leveren via internet aan prijsbewuste bedrijven, instellingen en particulieren in de hele Benelux. Nergens vindt u zo'n groot assortiment tegen zulke lage prijzen. Bovendien kunt u rekenen op deskundigheid en service.
