@@ -17,6 +17,10 @@ Informatie opgezocht + uitgewerkt van opdracht 4; lage kost model + logisch mode
 
 Documentatie aangevuld
 
+Poging tot deployen JAVA app
+
+Opzoekwerk Jenkins
+
 ### Algemeen
 
 ![](https://i.gyazo.com/53c03f8f52477f9b40f06bcabcebe67d.png)
