@@ -25,7 +25,7 @@ Opzoekwerk Jenkins
 
 ![](https://i.gyazo.com/53c03f8f52477f9b40f06bcabcebe67d.png)
 
-[Afbeelding teamoverzicht tijdregistratie onderverdeeld per deelopdracht]
+![](https://i.gyazo.com/54f99f4a4a4be45d466152e27dd721a0.png)
 
 ### Siebert Timmermans
 
@@ -37,21 +37,15 @@ Opzoekwerk Jenkins
 
 ### Robby Den Haese
 
-* ...
-
-[Afbeelding individueel rapport tijdregistratie]
+![](https://i.gyazo.com/5e2f138a6daf341997492a2b85ca6016.png)
 
 ### Davy De Cock
 
-* ...
-
-[Afbeelding individueel rapport tijdregistratie]
+![](https://i.gyazo.com/e6b6c8edd42899e7f3d3088f71673e6b.png)
 
 ### Mike Lobberzoo
 
-* ...
-
-[Afbeelding individueel rapport tijdregistratie]
+![](https://i.gyazo.com/63e77347e19264863a12ee7e448b113a.png)
 
 ## Wat plan je volgende week te doen?
 - Jenkins onderzoeken - Mike en Davy
