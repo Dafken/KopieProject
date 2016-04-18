@@ -5,10 +5,10 @@
 
 | Student  | Aanw. | Opmerking |
 | :---     | :---  | :---      |
-| Siebert Timmermans |       |           |
-| Robby Den Haese |       |           |
-| Davy De Cock |       |           |
-| Mike Lobberzoo |       |           |
+| Siebert Timmermans |  X     |           |
+| Robby Den Haese |   X    |           |
+| Davy De Cock |    X   |           |
+| Mike Lobberzoo |   X    |           |
 
 ## Wat heb je deze week gerealiseerd?
 .NET app gedeployed op WISA private Server
@@ -67,7 +67,10 @@ Opzoekwerk Jenkins
 ## Feedback technisch luik
 
 ### Algemeen
-
+Geen opmerkingen. Zeer goed bezig. 
+* WISA stack met succes deployed.
+* Gestart met Jenkins
+* Bezig aan Cisco opdracht
 ### Siebert Timmermans
 ### Robby Den Haese 
 ### Davy De Cock
