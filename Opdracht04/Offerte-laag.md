@@ -20,7 +20,7 @@ Om de prijs te drukken nemen we volgende maatregelen:
 ## Devices ##
 
 ### Productieomgeving ###
-1 switch (verbonden met alle devices in de ruimte en de router in patchkast)
+1 24 poorten switch (verbonden met alle devices in de ruimte en de router in patchkast)
 
 10 printers 
 
@@ -34,7 +34,7 @@ Om de prijs te drukken nemen we volgende maatregelen:
 
 ### Patchkast ###
 
-1 switch (om naar vergaderzaal te trekken)
+1 24 poorten switch (om naar vergaderzaal te trekken)
 
 1 router (geconnecteerd met de switches)
 
@@ -50,7 +50,7 @@ Om de prijs te drukken nemen we volgende maatregelen:
 
 ### Kantoor / administratie ###
 
-1 Switch
+1 48 poorten Switch
 
 18 Computers
 
@@ -85,7 +85,7 @@ Access point ligt aan deur tussen gang van kantoor 1 en vergaderzaal naar gang v
 
 1 serverkast
 
-1 Switch
+1 24 poorten Switch
 
 ### Bodyscan ###
 
@@ -124,7 +124,9 @@ eventuele router: [rv325 16 poorten 10/100/1000 mbit/s](https://www.centralpoint
 
 POE switch: [Catalyst 2960](https://www.centralpoint.be/nl/netwerk-switches/cisco/catalyst-2960-plus-art-ws-c2960-plus-48pst-s-num-2098486/) - 1448 euro
 
-switch zonder POE: [sf500 48 poorten stackable](https://www.centralpoint.be/nl/netwerk-switches/cisco/sf500-48-k9-g5-switch-48-port-2-ge-sfp-stackable-managed-art-sf500-48-k9-g5-num-1061985/) -> tot 100 mbit/s - 505 euro
+switch zonder POE 48 poorten: [sf500 48 poorten stackable](https://www.centralpoint.be/nl/netwerk-switches/cisco/sf500-48-k9-g5-switch-48-port-2-ge-sfp-stackable-managed-art-sf500-48-k9-g5-num-1061985/) -> tot 100 mbit/s - 505 euro
+
+Switch zonder POE 24 poorten: [sf200 24 poorten stackable](https://www.centralpoint.be/nl/netwerk-switches/cisco/sf200-24fp-art-sf200-24fp-eu-num-2153001/) -> 299 euro
 
 Serverkast: [Wandkast 19 inch 12u met glazen voordeur](http://serverkastenwinkel.be/products/serverkasten1/782491.html) -> kleine en goedkope wandkast met ventilatie. Perfect voor deze opstelling. - 146 euro
 
