@@ -75,6 +75,8 @@ spreiden van werk
 
 ### Algemeen
 
+* stage working: verantwoordelijken + tijdinschattingen ontbreken plots (even vergeten? bij andere taken in stage "done" staat het dan wel goed)
+
 ### Siebert Timmermans
 ### Robby Den Haese 
 ### Davy De Cock
