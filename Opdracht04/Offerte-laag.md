@@ -1,4 +1,12 @@
 # Offerte kleinste prijs #
+<<<<<<< HEAD
+=======
+--------
+
+Actualiteit prijzen: 25/04/16
+
+![](https://i.gyazo.com/167189beade7ba27675c3afc54c1f8d8.png)
+>>>>>>> 143bdc59a988e78143fd914f7f4c995327eef9dc
 
 Algemene info:
 ---
@@ -112,9 +120,9 @@ Uit eigen onderzoek:
 
 Hier zouden we voor de voip geen POE switch en voip aanschaffen omdat de prijs van de switches veel duurder is door de POE poorten
 
-Access point: [aironet 1600](https://www.centralpoint.be/nl/wlan-access-points/cisco/aironet-1600-art-air-sap1602i-e-k9-num-1282459/) - 406 euro
+Access point: [aironet 1600](https://www.centralpoint.be/nl/wlan-access-points/cisco/aironet-1600-art-air-sap1602i-e-k9-num-1282459/) - 410 euro
 
-eventuele router: [rv325 16 poorten 10/100/1000 mbit/s](https://www.centralpoint.be/nl/routers/cisco/rv325-art-rv325-k9-g5-num-2109786/) - 236 euro
+eventuele router: [rv325 16 poorten 10/100/1000 mbit/s](https://www.centralpoint.be/nl/routers/cisco/rv325-art-rv325-k9-g5-num-2109786/) - 238 euro
 
 POE switch: [Catalyst 2960](https://www.centralpoint.be/nl/netwerk-switches/cisco/catalyst-2960-plus-art-ws-c2960-plus-48pst-s-num-2098486/) - 1448 euro
 
