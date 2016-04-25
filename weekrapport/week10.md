@@ -5,10 +5,10 @@
 
 | Student  | Aanw. | Opmerking |
 | :---     | :---  | :---      |
-| Siebert Timmermans |       |           |
-| Robby Den Haese |       |           |
-| Davy De Cock |       |           |
-| Mike Lobberzoo |       |           |
+| Siebert Timmermans | X      |           |
+| Robby Den Haese |   X    |           |
+| Davy De Cock |     X  |           |
+| Mike Lobberzoo |   X    |           |
 
 ## Wat heb je deze week gerealiseerd?
  
@@ -61,6 +61,10 @@ spreiden van werk
 ## Feedback technisch luik
 
 ### Algemeen
+- Alle stacks zijn gedeployed
+- Fysiek plan klaar
+- Gestart met Jenkins
+- Verder geen opmerkingen
 
 ### Siebert Timmermans
 ### Robby Den Haese 
