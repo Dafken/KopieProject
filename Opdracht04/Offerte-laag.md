@@ -1,12 +1,10 @@
 # Offerte kleinste prijs #
-<<<<<<< HEAD
 =======
 --------
 
 Actualiteit prijzen: 25/04/16
 
 ![](https://i.gyazo.com/167189beade7ba27675c3afc54c1f8d8.png)
->>>>>>> 143bdc59a988e78143fd914f7f4c995327eef9dc
 
 Algemene info:
 ---
