@@ -1,4 +1,5 @@
 # Offerte kleinste prijs #
+
 Algemene info:
 ---
 Om de prijs te drukken nemen we volgende maatregelen:
@@ -37,7 +38,7 @@ Om de prijs te drukken nemen we volgende maatregelen:
 
 2 VoIP
 
-1 Beamer (cheap versie -> HDMI/VGA kabel voor connectie met devices)
+1 Beamer (Microsoft Wireless Display Adapter -> connectie via bluetooth i.p.v. lange VGA/HDMI kabel)
 
 4 Ethernet kabels voor devices
 
@@ -78,6 +79,8 @@ Access point ligt aan deur tussen gang van kantoor 1 en vergaderzaal naar gang v
 
 1 serverkast
 
+1 Switch
+
 ### Bodyscan ###
 
 Buiten scope
@@ -117,7 +120,9 @@ POE switch: [Catalyst 2960](https://www.centralpoint.be/nl/netwerk-switches/cisc
 
 switch zonder POE: [sf500 48 poorten stackable](https://www.centralpoint.be/nl/netwerk-switches/cisco/sf500-48-k9-g5-switch-48-port-2-ge-sfp-stackable-managed-art-sf500-48-k9-g5-num-1061985/) -> tot 100 mbit/s - 505 euro
 
-Serverkast: [Wandkast 19 inch 12u met glazen voordeur](http://serverkastenwinkel.be/products/serverkasten1/782491.html) -> kleine en goedkope wandkast met ventilatie. Perfect voor deze opstelling.
+Serverkast: [Wandkast 19 inch 12u met glazen voordeur](http://serverkastenwinkel.be/products/serverkasten1/782491.html) -> kleine en goedkope wandkast met ventilatie. Perfect voor deze opstelling. - 146 euro
+
+VOIP: [Cisco SPA 301 VOIP systeem (geen PoE)](http://www.voipandgo.be/cisco-spa-301-g2.html) - 54 euro
 
 Wij kiezen voor www.centralpoint.be omwille van de goede klantendienst, eerlijke prijzen en de support. Het aanbod is ook aanzienlijk en bij problemen is er altijd gemakkelijk hulp te krijgen.
 
@@ -132,3 +137,6 @@ Voor de serverkasten kiezen we serverkastenwinkel.be. Zij zijn gespecialiseerd i
 > DiscountOffice.be komt tegemoet aan alle mogelijke wensen van zakelijke klanten en biedt aantrekkelijke kortingen aan vaste klanten en grootafnemers.
 > 
 > DiscountOffice.nl en DiscountOffice.be leveren via internet aan prijsbewuste bedrijven, instellingen en particulieren in de hele Benelux. Nergens vindt u zo'n groot assortiment tegen zulke lage prijzen. Bovendien kunt u rekenen op deskundigheid en service.
+
+
+Als VOIP leverancier kiezen we www.voipandgo.be. Ze hebben een groot aanbod aan VOIP systemen, ook zij specialiseren zich in de devices die wij van hun aankopen. Cisco aanbod is ook zeker groot genoeg voor een goede prijs.
