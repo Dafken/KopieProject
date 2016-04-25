@@ -20,36 +20,25 @@
 
 ### Algemeen
 
-[Afbeelding huidige toestand Kanban-bord(en) invoegen]
+![](https://i.gyazo.com/7b54088880be4a0953fb53def2f4a411.png)
 
-* ...
-* ...
-
-[Afbeelding teamoverzicht tijdregistratie onderverdeeld per deelopdracht]
+![](https://i.gyazo.com/bdf61aa86179ec0f1b3c5332d4b83006.png)
 
 ### Siebert Timmermans
 
-* ...
-
-[Afbeelding individueel rapport tijdregistratie]
+![](https://embed.gyazo.com/a439b7b5c044a39e5df8c330da96aa75.png)
 
 ### Robby Den Haese
 
-* ...
-
-[Afbeelding individueel rapport tijdregistratie]
+![](https://i.gyazo.com/009d3be99b0b59b9ef97898285536485.png)
 
 ### Davy De Cock
 
-* ...
-
-[Afbeelding individueel rapport tijdregistratie]
+![](https://i.gyazo.com/72b0a1fbc137448bc3df493316ef4506.png)
 
 ### Mike Lobberzoo
 
-* ...
-
-[Afbeelding individueel rapport tijdregistratie]
+![](https://i.gyazo.com/b8309338b5b47547bedcf0f7f7e9f662.png)
 
 ## Wat plan je volgende week te doen?
 
@@ -67,8 +56,7 @@
 
 ## Waar hebben jullie nog problemen mee?
 
-* ...
-* ...
+sprijden van werk
 
 ## Feedback technisch luik
 
