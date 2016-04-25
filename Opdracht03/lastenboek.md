@@ -54,9 +54,9 @@ WISA stack, JavaEE stack en LAMP stack voor zowel public(Azure) als private(Vagr
 
 | Student  | Geschat | Gerealiseerd |
 | :---     |    ---: |         ---: |
-| Siebert Timmermans |    30 uur     |           |
-| Robby Den Haese|     32.5 uur   |              |
-| Davy De Cock |     32 uur    |             |
-| Mike Lobbezoo |    35 uur     |             |
+| Siebert Timmermans |    30 uur     |     45      |
+| Robby Den Haese|     32.5 uur   |       36       |
+| Davy De Cock |     32 uur    |      61       |
+| Mike Lobbezoo |    35 uur     |       60      |
 
-To do - Toggl met totaal aantal uren opdracht van iedereen
+![](https://i.gyazo.com/14080ced0c4ff5371aa729385ab47257.png)
