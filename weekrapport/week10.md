@@ -56,7 +56,7 @@
 
 ## Waar hebben jullie nog problemen mee?
 
-sprijden van werk
+spreiden van werk
 
 ## Feedback technisch luik
 
