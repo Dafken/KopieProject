@@ -129,6 +129,8 @@ Access point: [Cisco Aironet 2600](http://www.secureitstore.com/2600-series.asp)
 > 
 > 802.11n with 3x4 multiple-input multiple-output (MIMO) technology with three spatial streams, which sustains 450-Mbps rates over a greater range for more capacity and reliability than competing access points.
 
+Deze Access Points zijn nog beter voor drukke plaatsen, is meer scalable en 450mbps aan. 
+
 eventuele router: [892f 8 poorten 1000 mbit/s](https://www.centralpoint.be/nl/routers/cisco/cisco-892f-2-ge-sfp-high-perf-security-r-art-c892fsp-k9-num-3505095/) - 771 euro
 
 POE switch: [Catalyst 2960](https://www.centralpoint.be/nl/netwerk-switches/cisco/catalyst-2960-plus-art-ws-c2960-plus-48pst-s-num-2098486/) - 1452 euro
@@ -137,7 +139,7 @@ Serverkast voor in patchkast: [Patchkast 19 inch 18u met glazen voordeur](http:/
 
 Serverkast voor andere ruimtes: [Wandkast 19 inch 12u met glazen voordeur](http://serverkastenwinkel.be/products/serverkasten1/782491.html) -> kleine en goedkope wandkast met ventilatie. Perfect voor deze opstelling. - 146 euro
 
-VOIP: [Cisco unified IP phone cp7945g PoE VOIP](http://www.voipandgo.be/cisco-unified-ip-phone-cp-7945g.html) - 279,84 euro
+PoE VOIP: [Cisco unified IP phone cp7945g PoE VOIP](http://www.voipandgo.be/cisco-unified-ip-phone-cp-7945g.html) - 279,84 euro
 
 Wij kiezen voor www.centralpoint.be omwille van de goede klantendienst, eerlijke prijzen en de support. Het aanbod is ook aanzienlijk en bij problemen is er altijd gemakkelijk hulp te krijgen.
 
