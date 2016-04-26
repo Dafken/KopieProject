@@ -120,7 +120,8 @@ Uit eigen onderzoek:
 
 ## Algemene Informatie/links ##
 
-Hier zouden we voor de voip geen POE switch en voip aanschaffen omdat de prijs van de switches veel duurder is door de POE poorten
+Hier gebruiken we PoE omdat dit veel praktischer is en kabels gaat verminderen waar ze niet nodig zijn.
+Er valt wel nog te onderzoeken of de 36 Watt die de PoE kan leveren volstaat voor alle devices.
 
 Access point: [Cisco Aironet 2600](http://www.secureitstore.com/2600-series.asp) - 862 euro
 > The Cisco Aironet 2600 Series is ideal for enterprise networks of any size that need high-performance, secure, and reliable Wi-Fi connectivity for consumer devices, high-performance laptops, and specialized industry equipment such as point-of-sale devices and wireless medical equipment. Enterprise-class silicon and optimized radios deliver a robust mobility experience that includes:
