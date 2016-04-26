@@ -14,6 +14,8 @@ Of dienen we dit te verdelen naargelang de locatie? Bijvoorbeeld: de vergaderzaa
 11. Moeten wij ook zelf de VoIP devices kiezen en aanschaffen of valt dit niet te kiezen?
 12. Hoe kunnen we een idee krijgen of al de stopcontacten die nodig zijn voordeliger of duurder zijn dan een POE opstelling?
 Wij dachten bijvoorbeeld voor de 18 voips in het kantoor zonder PoE te doen aangezien ze toch aan een desktop staan met waarschijnlijk genoeg stopcontacten. Langs de andere kant kan het besparen op alle kabels ook voordelig zijn. Of dit in elektriciteit kosten enige invloed heeft weten we ook niet.
+13. Is er een voorkeur voor de soort netwerkkabels? UTP Cat 5 en 6 liggen qua prijs zeer dicht bij elkaar terwijl 6 toch hogere snelheden kan dragen en minder last van ruis en storing heeft. UTP Cat 7 zou dan weer mogelijk zijn voor een 10gbit/s verbinding voor specifieke devices of naar de toekomst toe met ook weer minder storing en ruis.
+
 
 
 
