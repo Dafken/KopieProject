@@ -2,6 +2,7 @@
 
 Actualiteit prijzen: 26/04/16
 
+![](https://i.gyazo.com/100de52cb99d3680db52bae4e4139580.png)
 
 Algemene info:
 ---
