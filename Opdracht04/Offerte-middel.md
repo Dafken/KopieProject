@@ -11,7 +11,7 @@ Om de kwaliteit te verhogen aan een middelmatige prijs nemen we volgende maatreg
 2. Geen PoE (PoE compatibele switches en devices veel duurder, wel praktischer)
 3. Van patchkast naar vergaderzaal rechtstreeks kabels trekken (korte afstand + besparing van een Switch)
 4. 3 access points (Aironet 2600 - 862 euro op secureitstore.com)
-5. 2 router voor redundante opstelling -> switches niet onderling meer met elkaar verbonden
+5. 2 routers voor redundante opstelling -> switches niet onderling meer met elkaar verbonden
 6. 1000mbit/s snelheid verbinding
 
 ## Devices ##
