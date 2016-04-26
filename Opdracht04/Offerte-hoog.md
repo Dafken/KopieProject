@@ -129,7 +129,7 @@ Access point: [Cisco Aironet 2600](http://www.secureitstore.com/2600-series.asp)
 
 eventuele router: [892f 8 poorten 1000 mbit/s](https://www.centralpoint.be/nl/routers/cisco/cisco-892f-2-ge-sfp-high-perf-security-r-art-c892fsp-k9-num-3505095/) - 771 euro
 
-POE switch: [Catalyst 2960](https://www.centralpoint.be/nl/netwerk-switches/cisco/catalyst-2960-plus-art-ws-c2960-plus-48pst-s-num-2098486/) - 1448 euro
+POE switch: [Catalyst 2960](https://www.centralpoint.be/nl/netwerk-switches/cisco/catalyst-2960-plus-art-ws-c2960-plus-48pst-s-num-2098486/) - 1452 euro
 
 Serverkast voor in patchkast: [Patchkast 19 inch 18u met glazen voordeur](http://serverkastenwinkel.be/products/serverkasten1/782497.html) -> Medium en prijselijke patchkast. Perfect voor deze opstelling. - 363,52 euro
 
