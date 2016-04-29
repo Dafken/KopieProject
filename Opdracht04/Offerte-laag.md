@@ -12,10 +12,9 @@ Om de prijs te drukken nemen we volgende maatregelen:
 
 1. UTP CAT5 kabels
 2. Geen PoE (PoE compatibele switches en devices veel duurder, wel praktischer)
-3. Van patchkast naar vergaderzaal rechtstreeks kabels trekken (korte afstand + besparing van een Switch)
-4. Slechts 2 access points i.p.v. meer (Aironet 1600 - 408 euro op centralpoint.be)
-5. 1 router i.p.v. 2 om kosten te besparen (wel geen redundante opstelling)
-6. Slechts 100mbit/s snelheid verbinding
+3. Slechts 2 access points i.p.v. meer (Aironet 1600 - 408 euro op centralpoint.be)
+4. 1 router i.p.v. 2 om kosten te besparen (wel geen redundante opstelling)
+5. Slechts 100mbit/s snelheid verbinding
 
 ## Devices ##
 
