@@ -1,18 +1,26 @@
 # Lastenboek Opdracht 4 : 
 
 ### Uitvoering ###
-Offerte + logisch plan + fysiek plan lage solution - Robby en Siebert
+Offerte +  fysiek plan lage solution - Robby en Siebert
 
-Offerte + logisch plan + fysiek plan middenste solution - Robby en Siebert
+Offerte +  fysiek plan middenste solution - Robby en Siebert
 
-Offerte + logisch plan + fysiek plan hoge solution - Robby en Siebert
+Offerte +  fysiek plan hoge solution - Robby en Siebert
+
+Proof of concept logisch model - Robby, Siebert, Davy, Mike
+
+Opmaken PowerPoint presentatie - Robby en Siebert
 
 ### Testing ###
-Offerte + logisch plan + fysiek plan lage solution - Robby en Siebert
+Offerte +  fysiek plan lage solution - Robby en Siebert
 
-Offerte + logisch plan + fysiek plan middenste solution - Robby en Siebert
+Offerte +  fysiek plan middenste solution - Robby en Siebert
 
-Offerte + logisch plan + fysiek plan hoge solution - Robby en Siebert
+Offerte +  fysiek plan hoge solution - Robby en Siebert
+
+Proof of concept logisch model - Robby, Siebert, Mike, Davy
+
+Opmaken PowerPoint presentatie - Robby en Siebert
 
 ## Deliverables
 Demo tijdens de contactmomenten van:
@@ -59,11 +67,19 @@ de slag te kunnen gaan
 • Testplannen en testrapporten
 
 ## Deeltaken
-Offerte + logisch plan + fysiek plan lage solution
+Informatie opzoeken
 
-Offerte + logisch plan + fysiek plan middenste solution
+Offerte +  fysiek plan lage solution
 
-Offerte + logisch plan + fysiek plan hoge solution
+Offerte +  fysiek plan middenste solution
+
+Offerte +  fysiek plan hoge solution
+
+Proof of concept logisch model
+
+Opmaken PowerPoint presentatie
+
+
 
 
 

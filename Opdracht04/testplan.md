@@ -25,6 +25,12 @@
 6. Zijn er VLANs voorzien en ingesteld per ruimte?
 7. Zijn correcte IP-addressen toegekend?
 
+## Testplan presentatie ##
+1. Heeft de presentatie een introductie?
+2. Heeft de presentatie een ToC?
+3. Bevat de presentatie alle modellen, offertes en figuren?
+4. Is er een slide waar vragen gesteld worden?
+5. Is er een slide waar vragen beantwoord worden?
 ----------
 
 Uitvoerder(s) : Robby Den Haese, Siebert Timmermans

@@ -8,12 +8,16 @@
 7. Is er een laag-middel-hoog kost opgemaakt?
 8. Is het plan met hogere prijs ook beter?
 
+Hiervoor verwijzen we naar onze offertes in Deelopdracht 4
+
 
 ## Testrapport fysiek model ##
 1. Zijn de juiste devices overgenomen voor het soort model?
 2. Is alles geordend naar het plan per ruimte?
 3. Is alles aangesloten?
 4. Zijn alle devices present in het model?
+
+Hiervoor verwijzen we naar onze fysieke modellen in Deelopdracht 4
 
 
 ## Testrapport logisch model ##
@@ -25,7 +29,16 @@
 6. Zijn er VLANs voorzien en ingesteld per ruimte?
 7. Zijn correcte IP-addressen toegekend?
 
+Hiervoor verwijzen we naar het logische model in Deelopdracht 4
 
+## Testrapport presentatie ##
+1. Heeft de presentatie een introductie?
+2. Heeft de presentatie een ToC?
+3. Bevat de presentatie alle modellen, offertes en figuren?
+4. Is er een slide waar vragen gesteld worden?
+5. Is er een slide waar vragen beantwoord worden?
+
+Hiervoor verwijzen we naar de PowerPoint presentatie in Deelopdracht 4
 
 ----------
 
