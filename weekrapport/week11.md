@@ -14,36 +14,25 @@
 
 ### Algemeen
 
-[Afbeelding huidige toestand Kanban-bord(en) invoegen]
+![](https://i.gyazo.com/e5df31909a3f491f0387eb60b9530cc5.png)
 
-* ...
-* ...
-
-[Afbeelding teamoverzicht tijdregistratie onderverdeeld per deelopdracht]
+![](https://i.gyazo.com/8f02a82314bdaa9509251377cdbf7012.png)
 
 ### Siebert Timmermans
 
-* ...
-
-[Afbeelding individueel rapport tijdregistratie]
+![](https://i.gyazo.com/9c2ac37ea922069e6d02fd005cd598d4.png)
 
 ### Robby Den Haese
 
-* ...
-
-[Afbeelding individueel rapport tijdregistratie]
+![](https://i.gyazo.com/c190920f0b78c9a9d388952eade573d7.png)
 
 ### Davy De Cock
 
-* ...
-
-[Afbeelding individueel rapport tijdregistratie]
+![](https://i.gyazo.com/01ff3c52afcd97e91319a209fb859d69.png)
 
 ### Mike Lobberzoo
 
-* ...
-
-[Afbeelding individueel rapport tijdregistratie]
+![](https://i.gyazo.com/47e5bf3b1195282fe40426ea70b7c034.png)
 
 ## Wat plan je volgende week te doen?
 
