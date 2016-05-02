@@ -89,9 +89,9 @@ Opmaken PowerPoint presentatie
 
 | Student  | Geschat | Gerealiseerd |
 | :---     |    ---: |         ---: |
-| Siebert Timmermans |     uur     |           |
-| Robby Den Haese|      uur   |              |
-| Davy De Cock |      uur    |             |
-| Mike Lobbezoo |    uur     |             |
+| Siebert Timmermans |   10  uur     |      12uur     |
+| Robby Den Haese|    10  uur   |      12u45         |
+| Davy De Cock |     1 uur    |       1u30      |
+| Mike Lobbezoo |   1 uur     |       3uur      |
 
 To do - Toggl met totaal aantal uren opdracht van iedereen
