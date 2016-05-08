@@ -1,20 +1,20 @@
 # Lastenboek Opdracht 1 : Systeem voor archivering van studentenwerk
 
 ### Uitvoering ###
-Jenkins systeem opzetten - Mike, Davy, Robby en Siebert
+Jenkins systeem opzetten - Mike, Davy
 
-Jenkins linken met GitHub - Mike, Davy, Robby en Siebert
+Jenkins linken met GitHub - Mike, Davy
 
-Docker linken en servers aanmaken - Mike, Davy, Robby en Siebert
+Docker linken en servers aanmaken - Mike, Davy
 
 Documentatie - Mike, Davy, Robby en Siebert
 
 ### Testing ###
-Jenkins systeem opzetten - Mike, Davy, Robby en Siebert
+Jenkins systeem opzetten - Mike, Davy
 
-Jenkins linken met GitHub - Mike, Davy, Robby en Siebert
+Jenkins linken met GitHub - Mike, Davy
 
-Docker linken en servers aanmaken - Mike, Davy, Robby en Siebert
+Docker linken en servers aanmaken - Mike, Davy
 
 Documentatie - Mike, Davy, Robby en Siebert
 
@@ -45,11 +45,11 @@ Documentatie
 
 
 ## Deeltaken
-Jenkins systeem opzetten - Mike, Davy, Robby en Siebert
+Jenkins systeem opzetten - Mike, Davy
 
-Jenkins linken met GitHub - Mike, Davy, Robby en Siebert
+Jenkins linken met GitHub - Mike, Davy
 
-Docker linken en servers aanmaken - Mike, Davy, Robby en Siebert
+Docker linken en servers aanmaken - Mike, Davy
 
 Documentatie - Mike, Davy, Robby en Siebert
 
