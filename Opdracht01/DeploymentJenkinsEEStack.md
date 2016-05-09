@@ -44,6 +44,6 @@ Als je deze stappen doornomen hebt ben je klaar om Jenkins te configureren voor 
     Manager User name en password zijn de credentials van de tomcat-user welke we bij de voorbereiding aangemaakt hebben. In dit geval:
         <user username="admin" password="admin" roles="manager-script" />
 
-5. Nadat alles configureert is mogen we de Jenkins job afsluiten door te klikken op Save. Als alles goed gaat, wordt deze automatisch gebuild vanaf als er iets aangepast wordt op github en daarna direct gedeployed op onze JavaEEStackServer.
+5. Nadat alles configured is mogen we de Jenkins job afsluiten door te klikken op Save. Als alles goed gaat, wordt deze automatisch gebuild vanaf als er iets aangepast wordt op github en daarna direct gedeployed op onze JavaEEStackServer.
 
 Auteur: Davy De Cock / Mike Lobbezoo
