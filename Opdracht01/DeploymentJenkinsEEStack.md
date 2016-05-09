@@ -8,6 +8,7 @@ Als referentie gebruiken wij een project dat online te vinden is op: [DemoJenkin
 1. Volg de configuratie / cheatsheet, zodat je hier geen problemen meer hebt met bepaalde instellingen
 2. JavaEEStack server moet up and running zijn, zodat jenkins de mogelijkheid heeft om de applicatie te deployen. In dit geval is dit [JavaEEStackServer](213.119.235.111:805)
 3. Je moet een extra rolename toevoegen bij tomcat-users.xml welke te vinden is in tomcat-apache / conf folder.
+
         <user username="admin" password="admin" roles="manager-script" />
 4. Nadat al deze stappen klaar zijn mag je niet vergeten volgende plug-in te installeren: [Deploy Plugin](https://wiki.jenkins-ci.org/display/JENKINS/Deploy+Plugin)
 
@@ -15,6 +16,7 @@ Als je deze stappen doornomen hebt ben je klaar om Jenkins te configureren voor 
 
 ## Jenkins job ##
 1. Nadat alle verwijzingen en dergelijke goed ingegesteld zijn bij de voorbereiding, gaan we bij ons jenkins job bepaalde aspecten toevoegen. Als eerste gaan we bij de build sectie klikken op "Add build step". Hierna gaan we gebruik maken van de optie "Invoke top-level Maven Targets". Nu gaan we bij het veldje Goals volgende intypen:
+
         clean package
     Dit gaat ervoor zorgen dat alle vorige restanten verwijderd worden, en de code opnieuw compiled wordt
 2. Als volgende stap gaan we een extra "Post-build action" toevoegen. Deze keer maken we gebruik van "Publish JUnit test result report". Het project zal automatisch unit tests runnen en genereert de XML test reporten in een folder genaamd "surefire-reports". Vandaar dat we het volgende ingeven bij "Test report XMLs" veld:
