@@ -31,9 +31,8 @@
 
 ### Davy De Cock
 
-* ...
 
-[Afbeelding individueel rapport tijdregistratie]
+![](http://i.imgur.com/EhCXfhD.png)
 
 ### Mike Lobberzoo
 
