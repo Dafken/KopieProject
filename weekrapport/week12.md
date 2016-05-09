@@ -35,9 +35,7 @@
 
 ### Mike Lobberzoo
 
-* ...
-
-[Afbeelding individueel rapport tijdregistratie]
+![](http://i.imgur.com/HpSWebF.png)
 
 ## Wat plan je volgende week te doen?
 
