@@ -17,9 +17,8 @@
 [Afbeelding huidige toestand Kanban-bord(en) invoegen]
 
 ![](https://i.gyazo.com/76bc21119409f4141f10355e3b9adcc2.png)
-* ...
 
-[Afbeelding teamoverzicht tijdregistratie onderverdeeld per deelopdracht]
+![](https://i.gyazo.com/62de9f1c36d8d96d5f17ec3180c7815f.png)
 
 ### Siebert Timmermans
 
