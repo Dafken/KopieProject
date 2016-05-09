@@ -62,4 +62,10 @@ Documentatie - Mike, Davy, Robby en Siebert
 | Davy De Cock |   40   uur    |             |
 | Mike Lobbezoo |  40  uur     |             |
 
-To do - Toggl met totaal aantal uren opdracht van iedereen
+Toggl met totaal aantal uren opdracht van iedereen
+
+Totale uren: 112 uur
+
+![](https://i.gyazo.com/0d8e8033438d88e53cb010f1a4407585.png)
+
+
