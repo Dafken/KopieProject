@@ -10,9 +10,9 @@ Docker linken en servers aanmaken - Mike, Davy
 Documentatie - Mike, Davy, Robby en Siebert
 
 ### Testing ###
-Jenkins systeem opzetten - Mike, Davy
+Jenkins systeem opzetten - Robby en Siebert
 
-Jenkins linken met GitHub - Mike, Davy
+Jenkins linken met GitHub - Robby en Siebert
 
 Docker linken en servers aanmaken - Mike, Davy
 
