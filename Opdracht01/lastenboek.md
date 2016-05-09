@@ -57,9 +57,9 @@ Documentatie - Mike, Davy, Robby en Siebert
 
 | Student  | Geschat | Gerealiseerd |
 | :---     |    ---: |         ---: |
-| Siebert Timmermans |     uur     |           |
-| Robby Den Haese|      uur   |              |
-| Davy De Cock |      uur    |             |
-| Mike Lobbezoo |    uur     |             |
+| Siebert Timmermans |  40   uur     |           |
+| Robby Den Haese|   40   uur   |              |
+| Davy De Cock |   40   uur    |             |
+| Mike Lobbezoo |  40  uur     |             |
 
 To do - Toggl met totaal aantal uren opdracht van iedereen
