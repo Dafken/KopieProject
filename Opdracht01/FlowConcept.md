@@ -6,7 +6,7 @@ Dit kan een Java, .NET, PHP, ... project zijn. Jenkins luistert (via poort 8080)
 
 De Jenkins server waar de applicatie gebuild wordt detecteerd een project op de repository en haalt deze binnen met een pull request.
 
-Jenkins build de applicatie en voert een post-build process uit. Dit houdt in dat Jenkins de gebuilde applicatie upload naar een server..
+Jenkins build de applicatie en voert een post-build process uit. Dit houdt in dat Jenkins de gebuilde applicatie upload naar een server.
 
 De applicatie is meteen bereikbaar op de server.
 
