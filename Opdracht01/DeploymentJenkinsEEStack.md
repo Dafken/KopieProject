@@ -21,7 +21,8 @@ Als je deze stappen doornomen hebt ben je klaar om Jenkins te configureren voor 
         **/target/surefire-reports/*.xml
     Merk op dat we gebruik maken van tweemaal een **, dit is een best practice zodat de configuratie robuuster wordt. Met andere woorden: Jenkins heeft de mogelijkheid om de directory te vinden, onafhankelijk van de manier hoe we Jenkins configured hebben om de source code te runnen.
 3. Opnieuw gaan we gebruik maken van de "Post-build action", maar deze keer voegen we een "Archive the artifacts" toe. Dit gaat ervoor zorgen dat Jenkins een copy stored van de build die we maken, wat ons later toelaat deze te downloaden van de build result pagina. Om dit te bereiken maken we gebruik van het volgende:
-     **/target/*.war
+    
+        **/target/*.war
     Dit gaat een .war file storen op onze Jenkins welke later kan deployed worden op JavaEEStackServer.
 4. Nu al deze stappen doorlopen zijn is het tijd om de instellingen te overlopen welke ervoor zorgen dat het project automatisch deployed wordt naar een JavaEEStackServer naar keuze. Opnieuw voegen we een "Post-build action" toe. Deze keer gaan we gebruik maken van "Deploy war/ear to a container". Als eerste gaan we de specifiek meegeven om welk soort file het gaat en waar deze te vinden is.
     WAR/EAR files
