@@ -14,19 +14,18 @@
 
 ### Algemeen
 
-[Afbeelding huidige toestand Kanban-bord(en) invoegen]
 
 ![](https://i.gyazo.com/76bc21119409f4141f10355e3b9adcc2.png)
 
-![](https://i.gyazo.com/62de9f1c36d8d96d5f17ec3180c7815f.png)
+![](https://i.gyazo.com/113a9ae7055040bf54d179c289df8356.png)
 
 ### Siebert Timmermans
 
-![](https://i.gyazo.com/285a012c59deaa36dfee2b7e178498b9.png)
+![](https://i.gyazo.com/a4bbfe191056918addf1d429f8d3c0d8.png)
 
 ### Robby Den Haese
 
-![](https://i.gyazo.com/9857da35285a8e5e8a6ecb8cf337f3b1.png)
+![](https://i.gyazo.com/10b44d32fd137a3a62737c59070402a0.png)
 
 ### Davy De Cock
 
